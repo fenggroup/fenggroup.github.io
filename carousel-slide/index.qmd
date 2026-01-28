@@ -1,0 +1,38 @@
+---
+format:
+  revealjs:
+    width: 900
+    height: 450
+    slide-number: false
+    menu: false
+    auto-slide: 5000
+    loop: true
+    controls: true
+    auto-slide-stoppable: false
+    background-transition: slide
+    css: styles.css
+---
+
+# {background-image="images/lidar-data-900x450.png" background-size="cover"}
+
+# {background-image="images/lidar-bike-pointcloud.png" background-size="cover"}
+
+# {background-image="images/lidar-bike.png" background-size="cover"}
+
+# {background-image="images/cycling-sim-900x450.png" background-size="cover"}
+
+# {background-image="images/cyclingsim_righthook.png" background-size="cover"}
+
+# {background-image="images/ncs_fleet.png" background-size="cover"}
+
+# {background-image="images/ncs_closepass.png" background-size="cover"}
+
+# {background-image="images/ncs_heatmap_slider.png" background-size="cover"}
+
+# {background-image="images/nds_overtaking.png" background-size="cover"}
+
+# {background-image="images/nds_overtaking_results.png" background-size="cover"}
+
+# {background-image="images/bike-counter.png" background-size="cover"}
+
+# {background-image="images/bike-counter-dash-900x450.png" background-size="cover"}

@@ -1,0 +1,52 @@
+---
+title: Research
+---
+
+The overarching goal of our research is to advance safe, sustainable, and just systems for cities and communities through data-driven insights.
+To this end, we use a variety of research methods including observational studies, laboratory experiments, applied statistics, causal inference, machine learning, human factors, and computational modeling and simulation. 
+
+## Observational studies
+A *naturalistic* study is a type of an [observational study](https://en.wikipedia.org/wiki/Observational_study) where researchers observe and record human (e.g., drivers) behaviors in their natural settings and typically over a prolonged period.
+Naturalistic studies are usually expensive to conduct, and the data analysis often requires more advanced statistical methods as the variables under investigation were typically not controlled by the researchers. 
+However, data from naturalistic studies is uniquely valuable for its high [ecological validity](https://en.wikipedia.org/wiki/Ecological_validity). 
+Our group has examined a number of naturalistic transportation data sets from a variety of perspectives.
+
+### Naturalistic driving studies
+
+:::: {.columns}
+::: {.column width="45%"} 
+![](../images/research/nds.png){height="280" fig-align="left"}
+:::
+::: {.column width="55%"}
+![](../images/research/nds_passing.png){height="280" fig-align="right"}
+:::
+::::
+
+### Naturalistic cycling studies
+
+We have conducted a naturalistic cycling study in Ann Arbor, Michigan. 
+In the study a fleet of four electric bicycles were instrumented with cameras, GPS, and other sensors that continuously record the data. 
+During the two-year data collection (2018-2019), a total of 77 participants completed the study, covering over 8,000 km of riding data.
+
+:::: {.columns}
+::: {.column width="40%"} 
+![](../images/research/ncs_bike.png){height="253" fig-align="left"}
+:::
+::: {.column width="60%"}
+![](../images/research/ncs_closepass.png){height="253" fig-align="right"}
+:::
+::::
+
+## Laboratory experiments
+In addition to using the naturalistic road user behavioral data, we also conduct laboratory experiments to examine factors that may not be addressed from the naturalistic data.
+
+We have developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., drivers) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle. 
+
+:::: {.columns}
+::: {.column width="35%"} 
+![](../images/research/cyclingsim.png){height="235" fig-align="left"}
+:::
+::: {.column width="65%"}
+![](../images/research/cyclingsim_righthook.png){height="235" fig-align="right"}
+:::
+::::

@@ -1,0 +1,25 @@
+---
+title: Products
+date-format: "YYYY-MM"
+---
+
+## Journal Articles
+{{< include data/_journals.qmd >}}
+
+## Conference Proceedings Articles
+{{< include data/_conferences.qmd >}}
+
+## Dissertations and Theses 
+{{< include data/_dissertations-theses.qmd >}}
+
+## Presentations
+{{< include data/_presentations.qmd >}}
+
+## Software
+{{< include data/_software.qmd >}}
+
+## Data
+{{< include data/_data.qmd >}}
+
+## Press
+{{< include data/_press.qmd >}}

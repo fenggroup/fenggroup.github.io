@@ -1,0 +1,10 @@
+# Virtual reality (VR) driving simulator
+
+We have developed a high-fidelity VR driving simulator that could simulate driving in an immersive virtual environment.
+It allows studying driver behaviors, driver-bicyclist/pedestrian interactions in a safe, controlled, and replicable environment.
+
+![](../images/research/drivingsim-passing.png){width="100%" fig-align="left"}
+
+## Demo video
+
+<iframe height="480" src="https://www.youtube.com/embed/BXEX7FMX1oo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

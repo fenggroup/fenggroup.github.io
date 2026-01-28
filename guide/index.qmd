@@ -1,0 +1,29 @@
+---
+title: Guide
+---
+
+## Software tools
+
+Members of the group are expected to use the software tools listed below to generate research products. 
+
+### Slides
+
+- In most cases slides should be written in [Quarto slides](https://quarto.org/docs/presentations/) using the group's poster template (to be added).
+- Resources
+    - [The official guide of Quarto presentation in revealjs](https://quarto.org/docs/presentations/revealjs/)
+    - [Exemplary quarto slides by the Feng Group](https://github.com/fenggroup/trbam2026-lidar-bike)
+
+### Research poster
+
+A research poster should be written in LaTeX using the group's [poster template](https://github.com/fenggroup/gemini-umich).
+
+### PhD proposal & dissertation
+
+PhD proposal and dissertation should be written in LaTeX using (unofficial) the University of Michigan [dissertation template](https://github.com/meluso/UMich_Dissertation_Template).
+
+### Masters' thesis
+
+Masters' thesis should be written in LaTeX using (unofficial) the University of Michigan [dissertation template](https://github.com/meluso/UMich_Dissertation_Template).
+
+
+

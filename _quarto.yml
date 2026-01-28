@@ -1,0 +1,74 @@
+project:
+  type: website
+
+website:
+  title: "Feng Group"
+  description: "The research website for the Feng Group"
+  favicon: assets/images/favicon.ico
+  site-url: https://fenggroup.org
+  repo-url: https://github.com/fenggroup/fenggroup.github.io
+  repo-actions: [edit, issue]
+  repo-link-target: _blank
+  repo-link-rel: noopener noreferrer
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research/index.qmd  
+      - text: Facilities
+        menu:
+          - text: Lidar research bicycle
+            href: facilities/lidar-bike.qmd
+          - text: Virtual reality cycling simulator
+            href: facilities/cyclingsim.qmd
+          - text: Virtual reality driving simulator
+            href: facilities/drivingsim.qmd
+          - text: Bike counters
+            href: facilities/bike-counter.qmd
+      - text: Products
+        href: products/index.qmd
+      - text: People
+        href: people/index.qmd
+      - text: Guide
+        href: guide/index.qmd
+      - text: Contact
+        href: contact/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+    tools:
+      - icon: github
+        href: https://github.com/fenggroup
+        text: GitHub
+        target: _blank
+        rel: noopener noreferrer
+      - icon: youtube
+        href: https://www.youtube.com/@fenggroup
+        text: YouTube
+        target: _blank
+        rel: noopener noreferrer
+      - icon: bluesky
+        href: https://bsky.app/profile/fenggroup.bsky.social
+        text: Bluesky
+        target: _blank
+        rel: noopener noreferrer
+  page-footer:
+    left: |
+      &copy; []{#current-year} Feng Group
+    center: |
+      Powered by [Quarto](https://quarto.org){target="_blank"}
+    right: |
+      License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){target="_blank"}
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: solar
+    css: assets/stylesheets/styles.css
+    toc: true
+    include-after-body:
+      - file: assets/scripts/current-year.html
+
+execute:
+  freeze: auto

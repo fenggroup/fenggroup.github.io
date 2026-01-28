@@ -1,0 +1,3 @@
+- Rayane Moustafa, "Using Digital Lidar to Study Cycling Safety and Distance Estimation of Passing Vehicles", [Master's theses], 2023-08-22, [10.7302/8118](https://dx.doi.org/10.7302/8118)
+- Gandhimathi Padmanaban, "Computational Human Performance Modeling using Queuing Network in an Open-Source Platform", [Master's theses], 2021-08-25, [10.7302/2328](https://dx.doi.org/10.7302/2328)
+- Ayah Hamad, "Two Wheelistic: Development of a High-Fidelity Virtual Reality Cycling Simulator for Transportation Safety Research", [Master's theses], 2021-05-01, [10.7302/1035](https://dx.doi.org/10.7302/1035)

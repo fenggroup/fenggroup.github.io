@@ -1,0 +1,32 @@
+# Bike counter
+
+We use bike counters ([Eco-Counter pneumatic tube counter](https://www.eco-counter.com/solutions/counting-solutions/tubes)) that automatically records bicycle traffic data at a location.
+This device allows studying the usages of various road/street infrastructures by people on bicycles. 
+
+:::: {.columns}
+::: {.column width="50%"} 
+![](../images/research/bike-counter-rouge.png){height="295" fig-align="left"}
+:::
+::: {.column width="50%"}
+![](../images/research/bike-counter-a2division.png){height="295" fig-align="right"}
+:::
+::::
+
+## Interactive dashboards
+
+See our interactive dashboards linked below for the data we have collected. 
+
+- [Ann Arbor Division Bikeway](https://bikecounter.org/annarbor-1)
+- [Dearborn Rouge Gateway Trail](https://bikecounter.org/dearborn-1)
+
+<!-- The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/). -->
+
+## Posters
+
+![](../images/posters/poster-salisbury-bike-counter-2022.png){width="100%" fig-align="left"}
+
+## Other resources
+
+In the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an [Eco-Counter TUBE](https://www.eco-counter.com/solutions/counting-solutions/tubes) bike counter on a multi-use path.
+
+<iframe height="450" src="https://www.youtube.com/embed/dvMzmCewGzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

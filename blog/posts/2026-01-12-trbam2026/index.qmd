@@ -1,0 +1,49 @@
+---
+title: "TRB Annual Meeting 2026"
+author: Fred Feng
+date: 2026-01-12
+categories: [News, Conference, Bicycle]
+image: images/trbam2026-fenggroup.jpg
+---
+
+We (Fred, Mathi, and Rayane) attended the [TRB (Transportation Research Board) Annual Meeting 2026](https://www.nationalacademies.org/events/886) in Washington DC and presented two papers on bicycling safety sponsored by [our NSF CAREER project](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2142757).
+
+![](images/trbam2026-fenggroup.jpg){fig-align="center" width="80%"}
+
+## The lidar bike paper
+
+The first paper is titled "*Quantifying drivers overtaking bicyclists with surrogate safety measures derived from high-resolution digital lidar*" (TRBAM-26-04623).
+The lead author Rayane Moustafa presented the paper at the lectern session "Expanding the Definition of Safety Data".
+
+:::: {.columns}
+::: {.column width="40%"}
+![](images/trbam2026-rayane-presenting-lidar-bike-1.jpeg){fig-align="left" height="260"}
+:::
+::: {.column width="60%"}
+![](images/trbam2026-rayane-presenting-lidar-bike-2.jpeg){fig-align="right" height="260"}
+:::
+::::
+
+You can find the presentation slides below, or [open the slides in a new window](https://fenggroup.org/trbam2026-lidar-bike/)
+
+::: {style="text-align: center;"}
+<iframe src="https://fenggroup.org/trbam2026-lidar-bike/" height="450" frameborder="0" style="width:100%;"></iframe>
+:::
+
+## The computer vision paper
+
+The second paper is titled "*A geometry-informed computer vision method for detecting and examining overtaking vehicles from a bicycle*" (TRBAM-26-04593).
+The lead author Gandhimathi (Mathi) presented the paper at the poster session "Human Factors Research Medley 2".
+
+:::: {.columns}
+::: {.column width="55%"}
+![](images/trbam2026-cv-poster-1.jpeg){fig-align="left" height="270"}
+:::
+::: {.column width="45%"}
+![](images/trbam2026-cv-poster-2.jpeg){fig-align="right" height="270"}
+:::
+::::
+
+You can find the presentation poster below.
+
+![](images/trbam2026-cv-poster-mathi.png)

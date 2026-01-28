@@ -1,0 +1,4 @@
+# It seems Quarto does not display the GitHub icon using Markdown syntax
+# It's possibly related to Quarto discarding the query string after the delimitor question mark ?
+# For now we use raw HTML
+github_repo_icon: <img src="https://img.shields.io/badge/github-repo-blue?logo=github">

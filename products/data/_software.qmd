@@ -1,0 +1,4 @@
+- Vehicle overtaking tracker [{{< var github_repo_icon >}}](https://github.com/fenggroup/vehicle-overtaking-tracker)
+- Pointcloud overtaking vehicle tracker [{{< var github_repo_icon >}}](https://github.com/fenggroup/pointcloud-overtaking-vehicle-tracker)
+- [Bicycle counter data dashboard](https://fenggroup.org/bike-counter-d3/) [{{< var github_repo_icon >}}](https://github.com/fenggroup/bike-counter-d3)
+- [Interactive visualization of probability distributions](https://probstats.org) [{{< var github_repo_icon >}}](https://github.com/probstats/probstats.github.io)

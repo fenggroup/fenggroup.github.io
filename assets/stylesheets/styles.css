@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+
+img {
+  border-radius: 10px;
+} 
+
+#homepage-container {
+    position: relative;
+    top: -25px;         /* reduce the white space above the logo text */
+    width: 75%;
+    margin: 0 auto;
+}
+
+#fenggroup-logo {
+    text-align: center;
+    font-size: 48px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-style: normal;   
+}
+
+#fenggroup-logo p {
+  margin-bottom: 0px;
+}
+
+#homepage-tagline {
+    font-size: 26px; 
+    font-weight: bold; 
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#carousel-slides {
+    text-align: center;
+}
+
+#homepage-long-description {
+    font-size: 20px; 
+    margin-bottom: 40px;
+}
+
+iframe {
+    border-radius: 10px; 
+    overflow: hidden;
+    width: 100%;
+}
