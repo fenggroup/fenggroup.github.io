@@ -24,8 +24,9 @@ Advancing safe, sustainable, and just systems for cities and communities through
 :::
 
 ::: {#carousel-slides}
-<iframe src="/carousel-slide/" height="320" frameborder="0" style="width:85%;"></iframe>
+<iframe id="carousel-slides-iframe" src="/carousel-slide/" frameborder="0"></iframe>
 :::
+
 
 ::: {#homepage-long-description}
 We are a research group in the [Industrial and Manufacturing Systems Engineering Department](https://umdearborn.edu/cecs/departments/industrial-and-manufacturing-systems-engineering) at the [University of Michigan-Dearborn](https://umdearborn.edu) led by Dr. Fred Feng.

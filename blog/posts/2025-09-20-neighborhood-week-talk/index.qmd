@@ -10,8 +10,12 @@ On September 20, 2025 Fred was invited to give an lightning talk on our work on 
 The talk was titled "Who Killed Whom - Counterparties in Road Traffic Crashes and the Implications on Transportation Justice".
 You can watch the video recording of the talk below. 
 
-<iframe height="450" src="https://www.youtube-nocookie.com/embed/SIbsWIWSBXg?si=AE5mqD7zC-CXGMdH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/SIbsWIWSBXg?si=AE5mqD7zC-CXGMdH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
 
 You can find the presentation slides below.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfZxh-eXAGNRIKpCYhU1emA2umj9yFVhXDvqNebmyVnjlbky22oI1NGKwI_Q0YOBQNkkMlwmC0yNJ5/pubembed?start=false&loop=false&delayms=600000" frameborder="0" height="485" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vSfZxh-eXAGNRIKpCYhU1emA2umj9yFVhXDvqNebmyVnjlbky22oI1NGKwI_Q0YOBQNkkMlwmC0yNJ5/pubembed?start=false&loop=false&delayms=600000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+:::

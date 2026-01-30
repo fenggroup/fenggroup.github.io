@@ -4,19 +4,19 @@ We have developed a research bicycle outfitted with a [lidar](https://en.wikiped
 The lidar on the bicycle is able to continuously measure the 3D environment in point clouds,
 which are made up of hundreds of thousand of data points in a 3-dimensional space. 
 
+:::: {.columns}
+::: {.column width="40%"} 
+![Research bicycle equipped with lidar](../images/research/lidar-bike.png){fig-align="left" width="99%"}
+:::
+::: {.column width="60%"}
+![Lidar point cloud with an approaching vehicle](../images/research/pointcloud-data.png){fig-align="right" width="99%"}
+:::
+::::
+
 This lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). 
 This, in turn, helps us to better understand the safety implications (e.g., driver passing distance when overtaking cyclists) of various real-world street environment and bicycle facility designs. 
 
 <!-- FOR FUTURE: Describe why studying driver-bicyclist interaction can help us. -->
-
-:::: {.columns}
-::: {.column width="40%"} 
-![](../images/research/lidar-bike.png){height="212" fig-align="left"}
-:::
-::: {.column width="60%"}
-![](../images/research/pointcloud-data.png){height="212" fig-align="right"}
-:::
-::::
 
 ## Interactive point cloud visualization
 
@@ -24,15 +24,21 @@ You can interact with the point clouds recorded from our lidar bicycle in the em
 Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. 
 You can also open the embedded window in full screen by [clicking here](https://fenggroup.org/pointcloud/examples/bike-2.html).
 
-<iframe height="400" frameBorder="0" src="https://fenggroup.org/pointcloud/examples/bike-2.html"></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" frameBorder="0" src="https://fenggroup.org/pointcloud/examples/bike-2.html"></iframe>
+:::
 
 ## Lidar recording demo
 
-<iframe height="500" src="https://www.youtube.com/embed/gmzX6tZ84Zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/gmzX6tZ84Zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
 
 ## Overtaking bicyclists lidar point cloud and camera data demo
 
-<iframe height="500" src="https://www.youtube.com/embed/-ljcRm7nS6o?si=liq0YwYmtyQfHx4j" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/-ljcRm7nS6o?si=liq0YwYmtyQfHx4j" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
 
 ## Open data repository
 

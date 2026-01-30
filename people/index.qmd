@@ -7,7 +7,7 @@ listing:
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 4
-  image-height: 200px
+  image-height: 100%
   grid-item-border: false
   contents: data/pi.yml
 
@@ -17,7 +17,7 @@ listing:
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 4
-  image-height: 200px
+  image-height: 100%
   grid-item-border: false
   contents: data/phd_students.yml
 
@@ -27,7 +27,7 @@ listing:
   fields: [image, title]
   grid-item-align: center
   grid-columns: 4
-  image-height: 200px
+  image-height: 100%
   image-placeholder: assets/images/profile-image-placeholder.png
   grid-item-border: false
   contents: data/masters_students.yml

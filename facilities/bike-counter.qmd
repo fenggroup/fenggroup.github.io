@@ -5,10 +5,10 @@ This device allows studying the usages of various road/street infrastructures by
 
 :::: {.columns}
 ::: {.column width="50%"} 
-![](../images/research/bike-counter-rouge.png){height="295" fig-align="left"}
+![Bike counter at Rouge Gateway Trail in Dearborn, MI](../images/research/bike-counter-rouge.png){fig-align="left" width="98%"}
 :::
 ::: {.column width="50%"}
-![](../images/research/bike-counter-a2division.png){height="295" fig-align="right"}
+![Bike counter at N Division protected bike lane in Ann Arbor, MI](../images/research/bike-counter-a2division.png){fig-align="right" width="98%"}
 :::
 ::::
 
@@ -19,8 +19,6 @@ See our interactive dashboards linked below for the data we have collected.
 - [Ann Arbor Division Bikeway](https://bikecounter.org/annarbor-1)
 - [Dearborn Rouge Gateway Trail](https://bikecounter.org/dearborn-1)
 
-<!-- The dashboards were created with open-source [Plotly Dash](https://plotly.com/dash/) and freely hosted by [Heroku](https://www.heroku.com/). -->
-
 ## Posters
 
 ![](../images/posters/poster-salisbury-bike-counter-2022.png){width="100%" fig-align="left"}
@@ -29,4 +27,6 @@ See our interactive dashboards linked below for the data we have collected.
 
 In the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an [Eco-Counter TUBE](https://www.eco-counter.com/solutions/counting-solutions/tubes) bike counter on a multi-use path.
 
-<iframe height="450" src="https://www.youtube.com/embed/dvMzmCewGzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/dvMzmCewGzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

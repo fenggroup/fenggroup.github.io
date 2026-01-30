@@ -15,10 +15,10 @@ Our group has examined a number of naturalistic transportation data sets from a 
 
 :::: {.columns}
 ::: {.column width="45%"} 
-![](../images/research/nds.png){height="280" fig-align="left"}
+![Naturalistic driving data with camera views](../images/research/nds.png){fig-align="left" width="98%"}
 :::
 ::: {.column width="55%"}
-![](../images/research/nds_passing.png){height="280" fig-align="right"}
+![](../images/research/nds_passing.png){fig-align="right" width="98%"}
 :::
 ::::
 
@@ -29,24 +29,24 @@ In the study a fleet of four electric bicycles were instrumented with cameras, G
 During the two-year data collection (2018-2019), a total of 77 participants completed the study, covering over 8,000 km of riding data.
 
 :::: {.columns}
-::: {.column width="40%"} 
-![](../images/research/ncs_bike.png){height="253" fig-align="left"}
+::: {.column width="43%"} 
+![Research bicycle](../images/research/ncs_bike.png){fig-align="left" width="99%"}
 :::
-::: {.column width="60%"}
-![](../images/research/ncs_closepass.png){height="253" fig-align="right"}
+::: {.column width="57%"}
+![Camera field of views](../images/research/ncs_closepass.png){fig-align="right" width="99%"}
 :::
 ::::
 
 ## Laboratory experiments
 In addition to using the naturalistic road user behavioral data, we also conduct laboratory experiments to examine factors that may not be addressed from the naturalistic data.
-
-We have developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., drivers) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle. 
+We have developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., drivers) in a safe, controlled, and replicable environment. 
+The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle. 
 
 :::: {.columns}
-::: {.column width="35%"} 
-![](../images/research/cyclingsim.png){height="235" fig-align="left"}
+::: {.column width="37%"} 
+![VR cycling simulator hardware](../../images/research/cyclingsim.png){fig-align="left" width="98%"}
 :::
-::: {.column width="65%"}
-![](../images/research/cyclingsim_righthook.png){height="235" fig-align="right"}
+::: {.column width="63%"}
+![VR scene with a vehicle cutting in](../../images/research/cyclingsim_righthook.png){fig-align="right" width="99%"}
 :::
 ::::

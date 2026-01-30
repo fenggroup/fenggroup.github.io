@@ -17,10 +17,10 @@ The lead author Rayane Moustafa presented the paper at the lectern session "Expa
 
 :::: {.columns}
 ::: {.column width="40%"}
-![](images/trbam2026-rayane-presenting-lidar-bike-1.jpeg){fig-align="left" height="260"}
+![](images/trbam2026-rayane-presenting-lidar-bike-1.jpeg){fig-align="left" width="100%"}
 :::
 ::: {.column width="60%"}
-![](images/trbam2026-rayane-presenting-lidar-bike-2.jpeg){fig-align="right" height="260"}
+![](images/trbam2026-rayane-presenting-lidar-bike-2.jpeg){fig-align="right" width="98%"}
 :::
 ::::
 
@@ -37,10 +37,10 @@ The lead author Gandhimathi (Mathi) presented the paper at the poster session "H
 
 :::: {.columns}
 ::: {.column width="55%"}
-![](images/trbam2026-cv-poster-1.jpeg){fig-align="left" height="270"}
+![](images/trbam2026-cv-poster-1.jpeg){fig-align="left" width="99%"}
 :::
 ::: {.column width="45%"}
-![](images/trbam2026-cv-poster-2.jpeg){fig-align="right" height="270"}
+![](images/trbam2026-cv-poster-2.jpeg){fig-align="right" width="98%"}
 :::
 ::::
 

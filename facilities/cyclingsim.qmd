@@ -5,17 +5,19 @@ This simulator allows us to study driver-bicyclist interactions, cyclist behavio
 The technical details on the simulator development can be found in [Ayah Hamad's Master's thesis](http://dx.doi.org/10.7302/1035).
 
 :::: {.columns}
-::: {.column width="35%"} 
-![](../../images/research/cyclingsim.png){height="235" fig-align="left"}
+::: {.column width="37%"} 
+![VR cycling simulator hardware](../../images/research/cyclingsim.png){fig-align="left" width="98%"}
 :::
-::: {.column width="65%"}
-![](../../images/research/cyclingsim_righthook.png){height="235" fig-align="right"}
+::: {.column width="63%"}
+![VR scene with a vehicle cutting in](../../images/research/cyclingsim_righthook.png){fig-align="right" width="99%"}
 :::
 ::::
 
 ### Video demo
 
-<iframe height="450" src="https://www.youtube.com/embed/qgruklgacVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/qgruklgacVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
 
 ### Walking in bicyclists' shoe
 
@@ -23,5 +25,6 @@ The technical details on the simulator development can be found in [Ayah Hamad's
 - One can experience these encounters from a first-person, bicyclist's perspective in our immersive VR simulator. 
 - These scenarios were also converted to 360-degree videos and shared on YouTube, so that people anywhere can experience them on their own devices (smartphones, tablets, computers). 
 
-<iframe height="450" src="https://www.youtube.com/embed/videoseries?list=PLzlbBFSTeX9cM2L1V814VCxhbg0Q6GsZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/videoseries?list=PLzlbBFSTeX9cM2L1V814VCxhbg0Q6GsZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::

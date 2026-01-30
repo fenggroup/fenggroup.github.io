@@ -7,4 +7,6 @@ It allows studying driver behaviors, driver-bicyclist/pedestrian interactions in
 
 ## Demo video
 
-<iframe height="480" src="https://www.youtube.com/embed/BXEX7FMX1oo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::: {.iframe-container}
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/BXEX7FMX1oo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
