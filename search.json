@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "facilities/lidar-bike.html",
-    "href": "facilities/lidar-bike.html",
-    "title": "Research bicycle with lidar",
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
     "section": "",
-    "text": "We have developed a research bicycle outfitted with a lidar (Ouster OS1-128). The lidar on the bicycle is able to continuously measure the 3D environment in point clouds, which are made up of hundreds of thousand of data points in a 3-dimensional space.\nThis lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). This, in turn, helps us to better understand the safety implications (e.g., driver passing distance when overtaking cyclists) of various real-world street environment and bicycle facility designs.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
+    "text": "Contact Fred Feng at fredfeng@umich.edu to get in touch with our research group."
   },
   {
-    "objectID": "facilities/lidar-bike.html#interactive-point-cloud-visualization",
-    "href": "facilities/lidar-bike.html#interactive-point-cloud-visualization",
-    "title": "Research bicycle with lidar",
+    "objectID": "contact/index.html#email",
+    "href": "contact/index.html#email",
+    "title": "Contact",
     "section": "",
-    "text": "You can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here."
+    "text": "Contact Fred Feng at fredfeng@umich.edu to get in touch with our research group."
   },
   {
-    "objectID": "facilities/lidar-bike.html#open-data-repository",
-    "href": "facilities/lidar-bike.html#open-data-repository",
-    "title": "Research bicycle with lidar",
-    "section": "",
-    "text": "We have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
+    "objectID": "contact/index.html#shipping-address",
+    "href": "contact/index.html#shipping-address",
+    "title": "Contact",
+    "section": "Shipping Address",
+    "text": "Shipping Address\n4901 Evergreen Rd, Dearborn, MI 48128 USA"
+  },
+  {
+    "objectID": "contact/index.html#getting-here",
+    "href": "contact/index.html#getting-here",
+    "title": "Contact",
+    "section": "Getting Here",
+    "text": "Getting Here\nThe Feng group is located in the HPEC building (Heinz Prechter Engineering Complex) Room 2200 at the University of Michigan-Dearborn.\n\n\nView Larger Map"
   },
   {
     "objectID": "facilities/drivingsim.html",
@@ -28,39 +35,32 @@
     "text": "We have developed a high-fidelity VR driving simulator that could simulate driving in an immersive virtual environment. It allows studying driver behaviors, driver-bicyclist/pedestrian interactions in a safe, controlled, and replicable environment."
   },
   {
-    "objectID": "people/index.html",
-    "href": "people/index.html",
-    "title": "People",
+    "objectID": "facilities/cyclingsim.html",
+    "href": "facilities/cyclingsim.html",
+    "title": "Virtual reality (VR) cycling simulator",
     "section": "",
-    "text": "Associate Professor\n\n\n\n\n\nNo matching items"
+    "text": "Virtual reality (VR) cycling simulator\nWe have developed a high-fidelity VR cycling simulator that could simulate cycling in an immersive virtual environment. This simulator allows us to study driver-bicyclist interactions, cyclist behaviors and facility preferences, and among many other things in a safe, controlled, and replicable environment. The technical details on the simulator development can be found in Ayah Hamad’s Master’s thesis.\n\n\n\n\n\nVR cycling simulator hardware\n\n\n\n\n\n\nVR scene with a vehicle cutting in\n\n\n\n\n\nVideo demo\n\n\n\n\n\n\nWalking in bicyclists’ shoe\n\nWe have developed a number of virtual scenarios of common dangerous encounters (e.g., close passes, right hook).\nOne can experience these encounters from a first-person, bicyclist’s perspective in our immersive VR simulator.\nThese scenarios were also converted to 360-degree videos and shared on YouTube, so that people anywhere can experience them on their own devices (smartphones, tablets, computers)."
   },
   {
-    "objectID": "people/index.html#principal-investigator",
-    "href": "people/index.html#principal-investigator",
-    "title": "People",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Associate Professor\n\n\n\n\n\nNo matching items"
+    "text": "The overarching goal of our research is to advance safe, sustainable, and just systems for cities and communities through data-driven insights. To this end, we use a variety of research methods including observational studies, laboratory experiments, applied statistics, causal inference, machine learning, human factors, and computational modeling and simulation."
   },
   {
-    "objectID": "people/index.html#phd-students",
-    "href": "people/index.html#phd-students",
-    "title": "People",
-    "section": "PhD Students",
-    "text": "PhD Students\n\n\n\n\n\n\n\n\n\n\nH. Vasanth Munnamgi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGandhimathi (Mathi) Padmanaban\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRayane Moustafa\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "research/index.html#observational-studies",
+    "href": "research/index.html#observational-studies",
+    "title": "Research",
+    "section": "Observational studies",
+    "text": "Observational studies\nA naturalistic study is a type of an observational study where researchers observe and record human (e.g., drivers) behaviors in their natural settings and typically over a prolonged period. Naturalistic studies are usually expensive to conduct, and the data analysis often requires more advanced statistical methods as the variables under investigation were typically not controlled by the researchers. However, data from naturalistic studies is uniquely valuable for its high ecological validity. Our group has examined a number of naturalistic transportation data sets from a variety of perspectives.\n\nNaturalistic driving studies\n\n\n\n\n\nNaturalistic driving data with camera views\n\n\n\n\n\n\n\n\n\n\n\n\nNaturalistic cycling studies\nWe have conducted a naturalistic cycling study in Ann Arbor, Michigan. In the study a fleet of four electric bicycles were instrumented with cameras, GPS, and other sensors that continuously record the data. During the two-year data collection (2018-2019), a total of 77 participants completed the study, covering over 8,000 km of riding data.\n\n\n\n\n\nResearch bicycle\n\n\n\n\n\n\nCamera field of views"
   },
   {
-    "objectID": "people/index.html#masters-students",
-    "href": "people/index.html#masters-students",
-    "title": "People",
-    "section": "Master’s Students",
-    "text": "Master’s Students\n\n\n\n\n\n\n\n\n\n\nYvonne Chen\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/index.html#undergraduate-students",
-    "href": "people/index.html#undergraduate-students",
-    "title": "People",
-    "section": "Undergraduate Students",
-    "text": "Undergraduate Students"
+    "objectID": "research/index.html#laboratory-experiments",
+    "href": "research/index.html#laboratory-experiments",
+    "title": "Research",
+    "section": "Laboratory experiments",
+    "text": "Laboratory experiments\nIn addition to using the naturalistic road user behavioral data, we also conduct laboratory experiments to examine factors that may not be addressed from the naturalistic data. We have developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., drivers) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle.\n\n\n\n\n\nVR cycling simulator hardware\n\n\n\n\n\n\nVR scene with a vehicle cutting in"
   },
   {
     "objectID": "blog/posts/2026-01-12-trbam2026/index.html",
@@ -84,11 +84,11 @@
     "text": "The computer vision paper\nThe second paper is titled “A geometry-informed computer vision method for detecting and examining overtaking vehicles from a bicycle” (TRBAM-26-04593). The lead author Gandhimathi (Mathi) presented the paper at the poster session “Human Factors Research Medley 2”.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou can find the presentation poster below."
   },
   {
-    "objectID": "blog/posts/2025-09-20-neighborhood-week-talk/index.html",
-    "href": "blog/posts/2025-09-20-neighborhood-week-talk/index.html",
-    "title": "Neighborhood Week 2025 Lightning Talk",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog articles",
     "section": "",
-    "text": "On September 20, 2025 Fred was invited to give an lightning talk on our work on crash data analysis at the first ever Neighborhood Week in Ann Arbor, MI. The talk was titled “Who Killed Whom - Counterparties in Road Traffic Crashes and the Implications on Transportation Justice”. You can watch the video recording of the talk below.\n\n\nYou can find the presentation slides below."
+    "text": "Remembering Yili Liu\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 27, 2026\n\n\nFred Feng\n\n3 min\n\n\n\n\n\n\n\n\n\n\n\nTRB Annual Meeting 2026\n\n\n\nNews\n\nConference\n\nBicycle\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nFred Feng\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nNeighborhood Week 2025 Lightning Talk\n\n\n\nNews\n\nLocal communities\n\nTransportation justice\n\n\n\n\n\n\n\n\n\nSep 20, 2025\n\n\nFred Feng\n\n1 min\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "products/index.html",
@@ -147,6 +147,13 @@
     "text": "Press\n\nMLive, “Ann Arbor bikeway clocks record-high 10,000-plus trips in July”, 2023\nMLive, “Ann Arbor’s new bikeways used by many, help grow bike ridership”, 2023\nUniversity of Michigan-Dearborn, “UM-Dearborn’s Fred Feng lands NSF CAREER Award to advance bicycle safety research”, 2022\nMichigan Institute for Data & AI in Society, “Improving Bicycling Safety by Developing a Research Framework for Studying Driver-Bicyclist Interactions”, 2022\nUniversity of Michigan-Dearborn, “Where virtual reality is taking us next”, 2022\nUniversity of Michigan-Dearborn, “Bike safety research is going ‘high-res’ with this new technology”, 2021\nForbes, “Painted White Lines Are Not Cyclist-Protecting Forcefields, Agree Experts”, 2019\nForbes, “Unlucky For Bicyclists, Every 13th Passing Motorist Is Looking Elsewhere”, 2018"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Feng Group",
+    "section": "",
+    "text": "FENG GROUP\n\n\nAdvancing safe, sustainable, and just systems for cities and communities through data-driven insights\n\n\n\n\n\n\nWe are a research group in the Industrial and Manufacturing Systems Engineering Department at the University of Michigan-Dearborn led by Dr. Fred Feng. To learn more about our research check the research and other pages linked on the navigation bar at the top of this page.\n\n\nUpdates\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nReading Time\n\n\n\n\n\n\n\n\nJanuary 27, 2026\n\n\nRemembering Yili Liu\n\n\nFred Feng\n\n\n3 min\n\n\n\n\n\n\nJanuary 12, 2026\n\n\nTRB Annual Meeting 2026\n\n\nFred Feng\n\n\n1 min\n\n\n\n\n\n\nSeptember 20, 2025\n\n\nNeighborhood Week 2025 Lightning Talk\n\n\nFred Feng\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\nMore updates"
+  },
+  {
     "objectID": "guide/index.html",
     "href": "guide/index.html",
     "title": "Guide",
@@ -161,81 +168,60 @@
     "text": "Members of the group are expected to use the software tools listed below to generate research products.\n\n\n\nIn most cases slides should be written in Quarto slides using the group’s poster template (to be added).\nResources\n\nThe official guide of Quarto presentation in revealjs\nExemplary quarto slides by the Feng Group\n\n\n\n\n\nA research poster should be written in LaTeX using the group’s poster template.\n\n\n\nPhD proposal and dissertation should be written in LaTeX using (unofficial) the University of Michigan dissertation template.\n\n\n\nMasters’ thesis should be written in LaTeX using (unofficial) the University of Michigan dissertation template."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "blog/posts/2025-09-20-neighborhood-week-talk/index.html",
+    "href": "blog/posts/2025-09-20-neighborhood-week-talk/index.html",
+    "title": "Neighborhood Week 2025 Lightning Talk",
     "section": "",
-    "text": "The overarching goal of our research is to advance safe, sustainable, and just systems for cities and communities through data-driven insights. To this end, we use a variety of research methods including observational studies, laboratory experiments, applied statistics, causal inference, machine learning, human factors, and computational modeling and simulation."
-  },
-  {
-    "objectID": "research/index.html#observational-studies",
-    "href": "research/index.html#observational-studies",
-    "title": "Research",
-    "section": "Observational studies",
-    "text": "Observational studies\nA naturalistic study is a type of an observational study where researchers observe and record human (e.g., drivers) behaviors in their natural settings and typically over a prolonged period. Naturalistic studies are usually expensive to conduct, and the data analysis often requires more advanced statistical methods as the variables under investigation were typically not controlled by the researchers. However, data from naturalistic studies is uniquely valuable for its high ecological validity. Our group has examined a number of naturalistic transportation data sets from a variety of perspectives.\n\nNaturalistic driving studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaturalistic cycling studies\nWe have conducted a naturalistic cycling study in Ann Arbor, Michigan. In the study a fleet of four electric bicycles were instrumented with cameras, GPS, and other sensors that continuously record the data. During the two-year data collection (2018-2019), a total of 77 participants completed the study, covering over 8,000 km of riding data."
-  },
-  {
-    "objectID": "research/index.html#laboratory-experiments",
-    "href": "research/index.html#laboratory-experiments",
-    "title": "Research",
-    "section": "Laboratory experiments",
-    "text": "Laboratory experiments\nIn addition to using the naturalistic road user behavioral data, we also conduct laboratory experiments to examine factors that may not be addressed from the naturalistic data.\nWe have developed a high-fidelity virtual reality (VR) cycling simulator that could simulate the interactions between cyclists and other road users (e.g., drivers) in a safe, controlled, and replicable environment. The VR cycling simulator allows one to experience high-fidelity bicycling in an immersive virtual environment by wearing the VR headset and riding on a stationary bicycle."
-  },
-  {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact Fred Feng at fredfeng@umich.edu to get in touch with our research group."
-  },
-  {
-    "objectID": "contact/index.html#email",
-    "href": "contact/index.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact Fred Feng at fredfeng@umich.edu to get in touch with our research group."
-  },
-  {
-    "objectID": "contact/index.html#shipping-address",
-    "href": "contact/index.html#shipping-address",
-    "title": "Contact",
-    "section": "Shipping Address",
-    "text": "Shipping Address\n4901 Evergreen Rd, Dearborn, MI 48128 USA"
-  },
-  {
-    "objectID": "contact/index.html#getting-here",
-    "href": "contact/index.html#getting-here",
-    "title": "Contact",
-    "section": "Getting Here",
-    "text": "Getting Here\nThe Feng group is located in the HPEC building (Heinz Prechter Engineering Complex) Room 2200 at the University of Michigan-Dearborn.\n\n\nView Larger Map"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Feng Group",
-    "section": "",
-    "text": "FENG GROUP\n\n\nAdvancing safe, sustainable, and just systems for cities and communities through data-driven insights\n\n\n\n\n\n\nWe are a research group in the Industrial and Manufacturing Systems Engineering Department at the University of Michigan-Dearborn led by Dr. Fred Feng. To learn more about our research check the research and other pages linked on the navigation bar at the top of this page.\n\n\nUpdates\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nReading Time\n\n\n\n\n\n\n\n\nJanuary 27, 2026\n\n\nRemembering Yili Liu\n\n\nFred Feng\n\n\n3 min\n\n\n\n\n\n\nJanuary 12, 2026\n\n\nTRB Annual Meeting 2026\n\n\nFred Feng\n\n\n1 min\n\n\n\n\n\n\nSeptember 20, 2025\n\n\nNeighborhood Week 2025 Lightning Talk\n\n\nFred Feng\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\nMore updates"
+    "text": "On September 20, 2025 Fred was invited to give an lightning talk on our work on crash data analysis at the first ever Neighborhood Week in Ann Arbor, MI. The talk was titled “Who Killed Whom - Counterparties in Road Traffic Crashes and the Implications on Transportation Justice”. You can watch the video recording of the talk below.\n\n\n\n\nYou can find the presentation slides below."
   },
   {
     "objectID": "blog/posts/2026-01-27-remembering-yili-liu/index.html",
     "href": "blog/posts/2026-01-27-remembering-yili-liu/index.html",
     "title": "Remembering Yili Liu",
     "section": "",
-    "text": "It was with a heavy heart that I learned that my PhD advisor Dr. Yili Liu has passed away. Yili was my PhD advisor at the University of Michigan from 2009 to 2015, who has made a fundamental impact on me as a researcher and as a person. I remember in the early years of my PhD I was not used to our meetings in which Yili rarely gave me specific tasks, but rather, he kept asking me, what do you want to work on? what are you passionate about in your research? I remember back then I was thinking to myself, it would be much easier if you just tell me what to do.\n\n\n\n\n\n\n\n\nUntil years later when I started my own academic journey as a faculty, I realized the important lessons Yili has taught me all along about following your passion in research and taking initiatives. He directly inspired me to shift my research areas over the years and now around something I care deeply about - the safety of people walking and bicycling and how we can evolve from a car-dependent society.\nYili was fun to work with. When a PhD student graduated from our group, Yili set up a tradition of having dinner at a restaurant with its name in alphabetical order. According to John Murray, Yili’s first PhD student graduated in 1996, they had the graduation dinner at the (now closed) Argiero’s in Kerrytown, hence the start of the letter sequencing. I was letter P. We were joking that we will just walk to Panda Express in Pierpont if the work was not good. We ended up going to Palio on Main Street, so I guess I did okay. \n\n\n\n\n\nPhotos of Yili after Fred’s PhD defense in 2015\n\nYili and I kept in touch over the last ten years after my graduation. Whenever I needed career advice, he was always available and one phone call away. Sometimes we decided to talk at a restaurant, and we tried to stick to restaurants starting with a P whenever we can (Pacific Rim). Yili continued to guide me through my faculty search and then as a junior faculty at UM-Dearborn. To the contrary of the often vague advice he gave me about what research to conduct, he always gave honest and direct advice on career-related questions that I have for him. Although sometimes that was not the answer that I was hoping to hear, but deep in my heart I knew he was right.\nThe last time Yili and I talked was early 2025 when I invited him to a seminar talk on the UM north campus that I was giving. Yili was not able to make it, but asked me to share the recording of the talk with him. It will be a forever regret of mine that I never got to invite him over to our place to catch up and personally meet my family after we moved back to Ann Arbor. I always thought, we have time, and we will do it soon when we are less busy. But sometimes we will never be able to. I will forever be grateful that I got to know Yili and have him as an advisor, colleague, and a dear friend."
+    "text": "It was with a heavy heart that I learned that my PhD advisor Dr. Yili Liu has passed away. Yili was my PhD advisor at the University of Michigan from 2009 to 2015, who has made a fundamental impact on me as a researcher and as a person. I remember in the early years of my PhD I was not used to our meetings in which Yili rarely gave me specific tasks, but rather, he kept asking me, what do you want to work on? what are you passionate about in your research? I remember back then I was thinking to myself, it would be much easier if you just tell me what to do. Until years later when I started my own academic journey as a faculty, I realized the important lessons Yili has taught me all along about following your passion in research and taking initiatives. He directly inspired me to shift my research areas over the years and now around something I care deeply about - the safety of people walking and bicycling and how we can evolve from a car-dependent society.\nYili was fun to work with. When a PhD student graduated from our group, Yili set up a tradition of having dinner at a restaurant with its name in alphabetical order. According to John Murray, Yili’s first PhD student graduated in 1996, they had the graduation dinner at the (now closed) Argiero’s in Kerrytown, hence the start of the letter sequencing. I was letter P. We were joking that we will just walk to Panda Express in Pierpont if the work was not good. We ended up going to Palio on Main Street, so I guess I did okay. \n\n\n\n\n\nPhotos of Yili after Fred’s PhD defense in 2015\n\nYili and I kept in touch over the last ten years after my graduation. Whenever I needed career advice, he was always available and one phone call away. Sometimes we decided to talk at a restaurant, and we tried to stick to restaurants starting with a P whenever we can (Pacific Rim). Yili continued to guide me through my faculty search and then as a junior faculty at UM-Dearborn. To the contrary of the often vague advice he gave me about what research to conduct, he always gave honest and direct advice on career-related questions that I have for him. Although sometimes that was not the answer that I was hoping to hear, but deep in my heart I knew he was right.\nThe last time Yili and I talked was early 2025 when I invited him to a seminar talk on the UM north campus that I was giving. Yili was not able to make it, but asked me to share the recording of the talk with him. It will be a forever regret of mine that I never got to invite him over to our place to catch up and personally meet my family after we moved back to Ann Arbor. I always thought, we have time, and we will do it soon when we are less busy. But sometimes we will never be able to. I will forever be grateful that I got to know Yili and have him as an advisor, colleague, and a dear friend."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog articles",
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
     "section": "",
-    "text": "Remembering Yili Liu\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 27, 2026\n\n\nFred Feng\n\n3 min\n\n\n\n\n\n\n\n\n\n\n\nTRB Annual Meeting 2026\n\n\n\nNews\n\nConference\n\nBicycle\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nFred Feng\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nNeighborhood Week 2025 Lightning Talk\n\n\n\nNews\n\nLocal communities\n\nTransportation justice\n\n\n\n\n\n\n\n\n\nSep 20, 2025\n\n\nFred Feng\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "Associate Professor\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#principal-investigator",
+    "href": "people/index.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Associate Professor\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#phd-students",
+    "href": "people/index.html#phd-students",
+    "title": "People",
+    "section": "PhD Students",
+    "text": "PhD Students\n\n\n\n\n\n\n\n\n\n\nH. Vasanth Munnamgi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGandhimathi (Mathi) Padmanaban\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRayane Moustafa\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#masters-students",
+    "href": "people/index.html#masters-students",
+    "title": "People",
+    "section": "Master’s Students",
+    "text": "Master’s Students\n\n\n\n\n\n\n\n\n\n\nYvonne Chen\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#undergraduate-students",
+    "href": "people/index.html#undergraduate-students",
+    "title": "People",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students"
   },
   {
     "objectID": "facilities/bike-counter.html",
     "href": "facilities/bike-counter.html",
     "title": "Bike counter",
     "section": "",
-    "text": "We use bike counters (Eco-Counter pneumatic tube counter) that automatically records bicycle traffic data at a location. This device allows studying the usages of various road/street infrastructures by people on bicycles.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee our interactive dashboards linked below for the data we have collected.\n\nAnn Arbor Division Bikeway\nDearborn Rouge Gateway Trail\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an Eco-Counter TUBE bike counter on a multi-use path."
+    "text": "We use bike counters (Eco-Counter pneumatic tube counter) that automatically records bicycle traffic data at a location. This device allows studying the usages of various road/street infrastructures by people on bicycles.\n\n\n\n\n\nBike counter at Rouge Gateway Trail in Dearborn, MI\n\n\n\n\n\n\nBike counter at N Division protected bike lane in Ann Arbor, MI\n\n\n\n\n\n\nSee our interactive dashboards linked below for the data we have collected.\n\nAnn Arbor Division Bikeway\nDearborn Rouge Gateway Trail\n\n\n\n\n\n\n\n\n\n\n\n\nIn the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an Eco-Counter TUBE bike counter on a multi-use path."
   },
   {
     "objectID": "facilities/bike-counter.html#interactive-dashboards",
@@ -252,10 +238,24 @@
     "text": "In the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an Eco-Counter TUBE bike counter on a multi-use path."
   },
   {
-    "objectID": "facilities/cyclingsim.html",
-    "href": "facilities/cyclingsim.html",
-    "title": "Virtual reality (VR) cycling simulator",
+    "objectID": "facilities/lidar-bike.html",
+    "href": "facilities/lidar-bike.html",
+    "title": "Research bicycle with lidar",
     "section": "",
-    "text": "Virtual reality (VR) cycling simulator\nWe have developed a high-fidelity VR cycling simulator that could simulate cycling in an immersive virtual environment. This simulator allows us to study driver-bicyclist interactions, cyclist behaviors and facility preferences, and among many other things in a safe, controlled, and replicable environment. The technical details on the simulator development can be found in Ayah Hamad’s Master’s thesis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo demo\n\n\n\n\nWalking in bicyclists’ shoe\n\nWe have developed a number of virtual scenarios of common dangerous encounters (e.g., close passes, right hook).\nOne can experience these encounters from a first-person, bicyclist’s perspective in our immersive VR simulator.\nThese scenarios were also converted to 360-degree videos and shared on YouTube, so that people anywhere can experience them on their own devices (smartphones, tablets, computers)."
+    "text": "We have developed a research bicycle outfitted with a lidar (Ouster OS1-128). The lidar on the bicycle is able to continuously measure the 3D environment in point clouds, which are made up of hundreds of thousand of data points in a 3-dimensional space.\n\n\n\n\n\nResearch bicycle equipped with lidar\n\n\n\n\n\n\nLidar point cloud with an approaching vehicle\n\n\n\n\nThis lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). This, in turn, helps us to better understand the safety implications (e.g., driver passing distance when overtaking cyclists) of various real-world street environment and bicycle facility designs.\n\n\n\nYou can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
+  },
+  {
+    "objectID": "facilities/lidar-bike.html#interactive-point-cloud-visualization",
+    "href": "facilities/lidar-bike.html#interactive-point-cloud-visualization",
+    "title": "Research bicycle with lidar",
+    "section": "",
+    "text": "You can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here."
+  },
+  {
+    "objectID": "facilities/lidar-bike.html#open-data-repository",
+    "href": "facilities/lidar-bike.html#open-data-repository",
+    "title": "Research bicycle with lidar",
+    "section": "",
+    "text": "We have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
   }
 ]

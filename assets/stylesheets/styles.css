@@ -26,13 +26,28 @@ img {
 #homepage-tagline {
     font-size: 26px; 
     font-weight: bold; 
-    width: 75%;
+    width: 90%;
     text-align: center;
     margin: 0 auto;
 }
 
 #carousel-slides {
-    text-align: center;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 50%;
+    margin: 20px auto;
+}
+
+#carousel-slides-iframe {
+    border-radius: 10px; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
 }
 
 #homepage-long-description {
@@ -40,8 +55,21 @@ img {
     margin-bottom: 40px;
 }
 
-iframe {
-    border-radius: 10px; 
+.iframe-container {
+    position: relative;
     overflow: hidden;
     width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    margin: 10px auto;
+}
+
+.responsive-iframe {
+    border-radius: 10px; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
 }
