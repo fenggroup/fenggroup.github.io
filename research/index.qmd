@@ -44,9 +44,9 @@ The VR cycling simulator allows one to experience high-fidelity bicycling in an 
 
 :::: {.columns}
 ::: {.column width="37%"} 
-![VR cycling simulator hardware](../../images/research/cyclingsim.png){fig-align="left" width="98%"}
+![VR cycling simulator hardware](../images/research/cyclingsim.png){fig-align="left" width="98%"}
 :::
 ::: {.column width="63%"}
-![VR scene with a vehicle cutting in](../../images/research/cyclingsim_righthook.png){fig-align="right" width="99%"}
+![VR scene with a vehicle cutting in](../images/research/cyclingsim_righthook.png){fig-align="right" width="99%"}
 :::
 ::::
