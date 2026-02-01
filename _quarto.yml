@@ -18,14 +18,18 @@ website:
         href: research/index.qmd  
       - text: Facilities
         menu:
-          - text: Lidar research bicycle
+          - text: "Lidar research bicycle"
             href: facilities/lidar-bike.qmd
-          - text: Virtual reality cycling simulator
+            icon: bicycle
+          - text: VR cycling simulator
             href: facilities/cyclingsim.qmd
-          - text: Virtual reality driving simulator
+            icon: badge-vr
+          - text: VR driving simulator
             href: facilities/drivingsim.qmd
+            icon: badge-vr
           - text: Bike counters
             href: facilities/bike-counter.qmd
+            icon: clipboard-plus
       - text: Products
         href: products/index.qmd
       - text: People

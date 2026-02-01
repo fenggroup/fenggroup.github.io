@@ -1,4 +1,6 @@
-# Bike counter
+---
+title: "Bike counter"
+---
 
 We use bike counters ([Eco-Counter pneumatic tube counter](https://www.eco-counter.com/solutions/counting-solutions/tubes)) that automatically records bicycle traffic data at a location.
 This device allows studying the usages of various road/street infrastructures by people on bicycles. 

@@ -1,4 +1,6 @@
-# Research bicycle with lidar
+---
+title: "Research bicycle with lidar"
+---
 
 We have developed a research bicycle outfitted with a [lidar](https://en.wikipedia.org/wiki/Lidar) (Ouster OS1-128). 
 The lidar on the bicycle is able to continuously measure the 3D environment in point clouds,
