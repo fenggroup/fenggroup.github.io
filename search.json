@@ -35,11 +35,18 @@
     "text": "We have developed a high-fidelity VR driving simulator that could simulate driving in an immersive virtual environment. It allows studying driver behaviors, driver-bicyclist/pedestrian interactions in a safe, controlled, and replicable environment."
   },
   {
+    "objectID": "facilities/drivingsim.html#demo-video",
+    "href": "facilities/drivingsim.html#demo-video",
+    "title": "Virtual reality (VR) driving simulator",
+    "section": "Demo video",
+    "text": "Demo video"
+  },
+  {
     "objectID": "facilities/cyclingsim.html",
     "href": "facilities/cyclingsim.html",
     "title": "Virtual reality (VR) cycling simulator",
     "section": "",
-    "text": "Virtual reality (VR) cycling simulator\nWe have developed a high-fidelity VR cycling simulator that could simulate cycling in an immersive virtual environment. This simulator allows us to study driver-bicyclist interactions, cyclist behaviors and facility preferences, and among many other things in a safe, controlled, and replicable environment. The technical details on the simulator development can be found in Ayah Hamad’s Master’s thesis.\n\n\n\n\n\nVR cycling simulator hardware\n\n\n\n\n\n\nVR scene with a vehicle cutting in\n\n\n\n\n\nVideo demo\n\n\n\n\n\n\nWalking in bicyclists’ shoe\n\nWe have developed a number of virtual scenarios of common dangerous encounters (e.g., close passes, right hook).\nOne can experience these encounters from a first-person, bicyclist’s perspective in our immersive VR simulator.\nThese scenarios were also converted to 360-degree videos and shared on YouTube, so that people anywhere can experience them on their own devices (smartphones, tablets, computers)."
+    "text": "We have developed a high-fidelity VR cycling simulator that could simulate cycling in an immersive virtual environment. This simulator allows us to study driver-bicyclist interactions, cyclist behaviors and facility preferences, and among many other things in a safe, controlled, and replicable environment. The technical details on the simulator development can be found in Ayah Hamad’s Master’s thesis.\n\n\n\n\n\nVR cycling simulator hardware\n\n\n\n\n\n\nVR scene with a vehicle cutting in\n\n\n\n\n\nVideo demo\n\n\n\n\n\n\nWalking in bicyclists’ shoe\n\nWe have developed a number of virtual scenarios of common dangerous encounters (e.g., close passes, right hook).\nOne can experience these encounters from a first-person, bicyclist’s perspective in our immersive VR simulator.\nThese scenarios were also converted to 360-degree videos and shared on YouTube, so that people anywhere can experience them on their own devices (smartphones, tablets, computers)."
   },
   {
     "objectID": "research/index.html",
@@ -221,41 +228,62 @@
     "href": "facilities/bike-counter.html",
     "title": "Bike counter",
     "section": "",
-    "text": "We use bike counters (Eco-Counter pneumatic tube counter) that automatically records bicycle traffic data at a location. This device allows studying the usages of various road/street infrastructures by people on bicycles.\n\n\n\n\n\nBike counter at Rouge Gateway Trail in Dearborn, MI\n\n\n\n\n\n\nBike counter at N Division protected bike lane in Ann Arbor, MI\n\n\n\n\n\n\nSee our interactive dashboards linked below for the data we have collected.\n\nAnn Arbor Division Bikeway\nDearborn Rouge Gateway Trail\n\n\n\n\n\n\n\n\n\n\n\n\nIn the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an Eco-Counter TUBE bike counter on a multi-use path."
+    "text": "We use bike counters (Eco-Counter pneumatic tube counter) that automatically records bicycle traffic data at a location. This device allows studying the usages of various road/street infrastructures by people on bicycles."
   },
   {
     "objectID": "facilities/bike-counter.html#interactive-dashboards",
     "href": "facilities/bike-counter.html#interactive-dashboards",
     "title": "Bike counter",
-    "section": "",
-    "text": "See our interactive dashboards linked below for the data we have collected.\n\nAnn Arbor Division Bikeway\nDearborn Rouge Gateway Trail"
+    "section": "Interactive dashboards",
+    "text": "Interactive dashboards\nSee our interactive dashboards linked below for the data we have collected.\n\nAnn Arbor Division Bikeway\nDearborn Rouge Gateway Trail"
+  },
+  {
+    "objectID": "facilities/bike-counter.html#posters",
+    "href": "facilities/bike-counter.html#posters",
+    "title": "Bike counter",
+    "section": "Posters",
+    "text": "Posters"
   },
   {
     "objectID": "facilities/bike-counter.html#other-resources",
     "href": "facilities/bike-counter.html#other-resources",
     "title": "Bike counter",
-    "section": "",
-    "text": "In the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an Eco-Counter TUBE bike counter on a multi-use path."
+    "section": "Other resources",
+    "text": "Other resources\nIn the video below Christopher, a former undergraduate researcher at Feng Group, shows how to install an Eco-Counter TUBE bike counter on a multi-use path."
   },
   {
     "objectID": "facilities/lidar-bike.html",
     "href": "facilities/lidar-bike.html",
     "title": "Research bicycle with lidar",
     "section": "",
-    "text": "We have developed a research bicycle outfitted with a lidar (Ouster OS1-128). The lidar on the bicycle is able to continuously measure the 3D environment in point clouds, which are made up of hundreds of thousand of data points in a 3-dimensional space.\n\n\n\n\n\nResearch bicycle equipped with lidar\n\n\n\n\n\n\nLidar point cloud with an approaching vehicle\n\n\n\n\nThis lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). This, in turn, helps us to better understand the safety implications (e.g., driver passing distance when overtaking cyclists) of various real-world street environment and bicycle facility designs.\n\n\n\nYou can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
+    "text": "We have developed a research bicycle outfitted with a lidar (Ouster OS1-128). The lidar on the bicycle is able to continuously measure the 3D environment in point clouds, which are made up of hundreds of thousand of data points in a 3-dimensional space.\nThis lidar bicycle allows us to study driver-bicyclist interactions in real-world roadways with continuous and accurate distance measurements from the bicycle to any nearby objects (e.g., surrounding vehicles). This, in turn, helps us to better understand the safety implications (e.g., driver passing distance when overtaking cyclists) of various real-world street environment and bicycle facility designs."
   },
   {
     "objectID": "facilities/lidar-bike.html#interactive-point-cloud-visualization",
     "href": "facilities/lidar-bike.html#interactive-point-cloud-visualization",
     "title": "Research bicycle with lidar",
-    "section": "",
-    "text": "You can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here."
+    "section": "Interactive point cloud visualization",
+    "text": "Interactive point cloud visualization\nYou can interact with the point clouds recorded from our lidar bicycle in the embedded window below. Try using a mouse or touch pad (if you are using a computer) or your fingers (if you are using a touchscreen device) to rotate the view and zoom in/out. You can also open the embedded window in full screen by clicking here."
+  },
+  {
+    "objectID": "facilities/lidar-bike.html#lidar-recording-demo",
+    "href": "facilities/lidar-bike.html#lidar-recording-demo",
+    "title": "Research bicycle with lidar",
+    "section": "Lidar recording demo",
+    "text": "Lidar recording demo"
+  },
+  {
+    "objectID": "facilities/lidar-bike.html#overtaking-bicyclists-lidar-point-cloud-and-camera-data-demo",
+    "href": "facilities/lidar-bike.html#overtaking-bicyclists-lidar-point-cloud-and-camera-data-demo",
+    "title": "Research bicycle with lidar",
+    "section": "Overtaking bicyclists lidar point cloud and camera data demo",
+    "text": "Overtaking bicyclists lidar point cloud and camera data demo"
   },
   {
     "objectID": "facilities/lidar-bike.html#open-data-repository",
     "href": "facilities/lidar-bike.html#open-data-repository",
     "title": "Research bicycle with lidar",
-    "section": "",
-    "text": "We have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
+    "section": "Open data repository",
+    "text": "Open data repository\nWe have developed an open data repository to share the data that were collected by our lidar bike. It includes the synchronized lidar data and camera data at 10 Hz with timestamps. If you are interested in exploring the data, start with the README.md file located in the root directory of the repository (linked above). For any questions or issues regarding the repository please email Dr. Fred Feng at fredfeng@umich.edu."
   }
 ]
