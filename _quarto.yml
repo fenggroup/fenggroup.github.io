@@ -6,10 +6,6 @@ website:
   description: "The research website for the Feng Group"
   favicon: assets/images/favicon.ico
   site-url: https://fenggroup.org
-  repo-url: https://github.com/fenggroup/fenggroup.github.io
-  repo-actions: [edit, issue]
-  repo-link-target: _blank
-  repo-link-rel: noopener noreferrer
   navbar:
     left:
       - text: Home
@@ -70,8 +66,8 @@ format:
     theme:
       # the theme's light and dark scss files are adopted from 
       # https://github.com/quarto-dev/quarto-web/ 
-      light: [cosmo, assets/stylesheets/theme.scss]
       dark: [cosmo, assets/stylesheets/theme-dark.scss]
+      light: [cosmo, assets/stylesheets/theme.scss]
     css: assets/stylesheets/styles.css
     toc: true
     include-after-body:
