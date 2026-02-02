@@ -339,10 +339,23 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#software-tools" id="toc-software-tools" class="nav-link active" data-scroll-target="#software-tools">Software tools</a>
   <ul class="collapse">
+  <li><a href="#programming-language" id="toc-programming-language" class="nav-link" data-scroll-target="#programming-language">Programming language</a></li>
+  <li><a href="#data-visualization" id="toc-data-visualization" class="nav-link" data-scroll-target="#data-visualization">Data visualization</a></li>
+  <li><a href="#scientific-writing" id="toc-scientific-writing" class="nav-link" data-scroll-target="#scientific-writing">Scientific writing</a></li>
+  <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control">Version control</a></li>
   <li><a href="#slides" id="toc-slides" class="nav-link" data-scroll-target="#slides">Slides</a></li>
   <li><a href="#research-poster" id="toc-research-poster" class="nav-link" data-scroll-target="#research-poster">Research poster</a></li>
   <li><a href="#phd-proposal-dissertation" id="toc-phd-proposal-dissertation" class="nav-link" data-scroll-target="#phd-proposal-dissertation">PhD proposal &amp; dissertation</a></li>
   <li><a href="#masters-thesis" id="toc-masters-thesis" class="nav-link" data-scroll-target="#masters-thesis">Masters’ thesis</a></li>
+  <li><a href="#diagrams" id="toc-diagrams" class="nav-link" data-scroll-target="#diagrams">Diagrams</a></li>
+  <li><a href="#image-editing" id="toc-image-editing" class="nav-link" data-scroll-target="#image-editing">Image editing</a></li>
+  <li><a href="#video-editing" id="toc-video-editing" class="nav-link" data-scroll-target="#video-editing">Video editing</a></li>
+  </ul></li>
+  <li><a href="#group-website" id="toc-group-website" class="nav-link" data-scroll-target="#group-website">Group website</a></li>
+  <li><a href="#training" id="toc-training" class="nav-link" data-scroll-target="#training">Training</a>
+  <ul class="collapse">
+  <li><a href="#latex" id="toc-latex" class="nav-link" data-scroll-target="#latex">LaTeX</a></li>
+  <li><a href="#version-control-1" id="toc-version-control-1" class="nav-link" data-scroll-target="#version-control-1">Version control</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -370,9 +383,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>This page includes documentations that serve as a reference for current group members as well as for on-boarding new members.</p>
 <section id="software-tools" class="level2">
 <h2 class="anchored" data-anchor-id="software-tools">Software tools</h2>
 <p>Members of the group are expected to use the software tools listed below to generate research products.</p>
+<section id="programming-language" class="level3">
+<h3 class="anchored" data-anchor-id="programming-language">Programming language</h3>
+<p>The group primarily use Python for day-to-day work such as scientific computing, data manipulation, analysis, and visualization, and developing computational models.</p>
+</section>
+<section id="data-visualization" class="level3">
+<h3 class="anchored" data-anchor-id="data-visualization">Data visualization</h3>
+<ul>
+<li>The group primarily uses the Python library <a href="https://altair-viz.github.io">Vega-Altair</a> for data visualization.</li>
+<li>In rare cases in which Altair does not serve our needs, we use <a href="https://d3js.org">D3.js</a> for bespoke data visualization.</li>
+</ul>
+</section>
+<section id="scientific-writing" class="level3">
+<h3 class="anchored" data-anchor-id="scientific-writing">Scientific writing</h3>
+<ul>
+<li>For day-to-day work the group primarily uses <a href="https://quarto.org">Quarto</a> and <a href="https://quarto.org/docs/authoring/markdown-basics.html">Markdown</a> to write reports, slides, etc.</li>
+<li>For manuscripts (journals, conferences, dissertations, thesis) in which Quarto is not fully capable yet, we use <a href="https://www.latex-project.org">LaTeX</a>.</li>
+</ul>
+</section>
+<section id="version-control" class="level3">
+<h3 class="anchored" data-anchor-id="version-control">Version control</h3>
+<p>The group has an organization account on GitHub for version control <a href="https://github.com/fenggroup" class="uri">https://github.com/fenggroup</a></p>
+<p>Group members are expected to use Git and GitHub for version control and collaboration. Create an account on GitHub if do not have one already, and request group membership.</p>
+</section>
 <section id="slides" class="level3">
 <h3 class="anchored" data-anchor-id="slides">Slides</h3>
 <ul>
@@ -395,6 +432,39 @@ ul.task-list li input[type="checkbox"] {
 <section id="masters-thesis" class="level3">
 <h3 class="anchored" data-anchor-id="masters-thesis">Masters’ thesis</h3>
 <p>Masters’ thesis should be written in LaTeX using (unofficial) the University of Michigan <a href="https://github.com/meluso/UMich_Dissertation_Template">dissertation template</a>.</p>
+</section>
+<section id="diagrams" class="level3">
+<h3 class="anchored" data-anchor-id="diagrams">Diagrams</h3>
+<p>In most cases use <a href="https://mermaid.js.org/">Mermaid</a> for generating diagrams such as flowcharts. Note <a href="https://quarto.org/docs/authoring/diagrams.html#mermaid">Mermaid diagrams can be directly created in a Quarto document</a>.</p>
+</section>
+<section id="image-editing" class="level3">
+<h3 class="anchored" data-anchor-id="image-editing">Image editing</h3>
+<p>Use <a href="https://www.gimp.org">GIMP</a> which is a free and open-source image editor.</p>
+</section>
+<section id="video-editing" class="level3">
+<h3 class="anchored" data-anchor-id="video-editing">Video editing</h3>
+<p>Use <a href="https://www.openshot.org">OpenShot</a> which is a free and open-source video editor.</p>
+</section>
+</section>
+<section id="group-website" class="level2">
+<h2 class="anchored" data-anchor-id="group-website">Group website</h2>
+<p>The research group website is created with <a href="https://quarto.org/docs/websites/">Quarto website</a>. <a href="https://quarto.org/docs/publishing/github-pages.html#github-action">GitHub Actions</a> are set up to render and publish the site on <a href="https://quarto.org/docs/publishing/github-pages.html">Github Pages</a>. The source code for the website is at <a href="https://github.com/fenggroup/fenggroup.github.io" class="uri">https://github.com/fenggroup/fenggroup.github.io</a></p>
+<p>Group members should use the GitHub pull request mechanism to submit changes for review. Fred reviews pull requests and approves/merges the changes.</p>
+</section>
+<section id="training" class="level2">
+<h2 class="anchored" data-anchor-id="training">Training</h2>
+<section id="latex" class="level3">
+<h3 class="anchored" data-anchor-id="latex">LaTeX</h3>
+<ul>
+<li><a href="https://docs.overleaf.com/getting-started/latex-tutorials">The Overleaf LaTex Tutorials</a></li>
+</ul>
+</section>
+<section id="version-control-1" class="level3">
+<h3 class="anchored" data-anchor-id="version-control-1">Version control</h3>
+<ul>
+<li><a href="https://swcarpentry.github.io/git-novice/">The Software Carpentry Git lesson</a></li>
+<li>Attending an in-person <a href="https://umcarpentries.org/workshops/">University of Michigan Software Carpentry Workshop</a></li>
+</ul>
 
 
 </section>

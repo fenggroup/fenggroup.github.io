@@ -165,14 +165,28 @@
     "href": "guide/index.html",
     "title": "Guide",
     "section": "",
-    "text": "Members of the group are expected to use the software tools listed below to generate research products.\n\n\n\nIn most cases slides should be written in Quarto slides using the group’s poster template (to be added).\nResources\n\nThe official guide of Quarto presentation in revealjs\nExemplary quarto slides by the Feng Group\n\n\n\n\n\nA research poster should be written in LaTeX using the group’s poster template.\n\n\n\nPhD proposal and dissertation should be written in LaTeX using (unofficial) the University of Michigan dissertation template.\n\n\n\nMasters’ thesis should be written in LaTeX using (unofficial) the University of Michigan dissertation template."
+    "text": "This page includes documentations that serve as a reference for current group members as well as for on-boarding new members."
   },
   {
     "objectID": "guide/index.html#software-tools",
     "href": "guide/index.html#software-tools",
     "title": "Guide",
-    "section": "",
-    "text": "Members of the group are expected to use the software tools listed below to generate research products.\n\n\n\nIn most cases slides should be written in Quarto slides using the group’s poster template (to be added).\nResources\n\nThe official guide of Quarto presentation in revealjs\nExemplary quarto slides by the Feng Group\n\n\n\n\n\nA research poster should be written in LaTeX using the group’s poster template.\n\n\n\nPhD proposal and dissertation should be written in LaTeX using (unofficial) the University of Michigan dissertation template.\n\n\n\nMasters’ thesis should be written in LaTeX using (unofficial) the University of Michigan dissertation template."
+    "section": "Software tools",
+    "text": "Software tools\nMembers of the group are expected to use the software tools listed below to generate research products.\n\nProgramming language\nThe group primarily use Python for day-to-day work such as scientific computing, data manipulation, analysis, and visualization, and developing computational models.\n\n\nData visualization\n\nThe group primarily uses the Python library Vega-Altair for data visualization.\nIn rare cases in which Altair does not serve our needs, we use D3.js for bespoke data visualization.\n\n\n\nScientific writing\n\nFor day-to-day work the group primarily uses Quarto and Markdown to write reports, slides, etc.\nFor manuscripts (journals, conferences, dissertations, thesis) in which Quarto is not fully capable yet, we use LaTeX.\n\n\n\nVersion control\nThe group has an organization account on GitHub for version control https://github.com/fenggroup\nGroup members are expected to use Git and GitHub for version control and collaboration. Create an account on GitHub if do not have one already, and request group membership.\n\n\nSlides\n\nIn most cases slides should be written in Quarto slides using the group’s poster template (to be added).\nResources\n\nThe official guide of Quarto presentation in revealjs\nExemplary quarto slides by the Feng Group\n\n\n\n\nResearch poster\nA research poster should be written in LaTeX using the group’s poster template.\n\n\nPhD proposal & dissertation\nPhD proposal and dissertation should be written in LaTeX using (unofficial) the University of Michigan dissertation template.\n\n\nMasters’ thesis\nMasters’ thesis should be written in LaTeX using (unofficial) the University of Michigan dissertation template.\n\n\nDiagrams\nIn most cases use Mermaid for generating diagrams such as flowcharts. Note Mermaid diagrams can be directly created in a Quarto document.\n\n\nImage editing\nUse GIMP which is a free and open-source image editor.\n\n\nVideo editing\nUse OpenShot which is a free and open-source video editor."
+  },
+  {
+    "objectID": "guide/index.html#group-website",
+    "href": "guide/index.html#group-website",
+    "title": "Guide",
+    "section": "Group website",
+    "text": "Group website\nThe research group website is created with Quarto website. GitHub Actions are set up to render and publish the site on Github Pages. The source code for the website is at https://github.com/fenggroup/fenggroup.github.io\nGroup members should use the GitHub pull request mechanism to submit changes for review. Fred reviews pull requests and approves/merges the changes."
+  },
+  {
+    "objectID": "guide/index.html#training",
+    "href": "guide/index.html#training",
+    "title": "Guide",
+    "section": "Training",
+    "text": "Training\n\nLaTeX\n\nThe Overleaf LaTex Tutorials\n\n\n\nVersion control\n\nThe Software Carpentry Git lesson\nAttending an in-person University of Michigan Software Carpentry Workshop"
   },
   {
     "objectID": "blog/posts/2025-09-20-neighborhood-week-talk/index.html",
