@@ -2,9 +2,32 @@
 title: Guide
 ---
 
+This page includes documentations that serve as a reference for current group members as well as for on-boarding new members. 
+
 ## Software tools
 
 Members of the group are expected to use the software tools listed below to generate research products. 
+
+### Programming language
+
+The group primarily use Python for day-to-day work such as scientific computing, data manipulation, analysis, and visualization, and developing computational models. 
+
+### Data visualization 
+
+- The group primarily uses the Python library [Vega-Altair](https://altair-viz.github.io) for data visualization.
+- In rare cases in which Altair does not serve our needs, we use [D3.js](https://d3js.org) for bespoke data visualization.
+
+### Scientific writing
+
+- For day-to-day work the group primarily uses [Quarto](https://quarto.org) and [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) to write reports, slides, etc.
+- For manuscripts (journals, conferences, dissertations, thesis) in which Quarto is not fully capable yet, we use [LaTeX](https://www.latex-project.org).
+
+### Version control
+
+The group has an organization account on GitHub for version control <https://github.com/fenggroup>
+
+Group members are expected to use Git and GitHub for version control and collaboration. 
+Create an account on GitHub if do not have one already, and request group membership.
 
 ### Slides
 
@@ -25,5 +48,35 @@ PhD proposal and dissertation should be written in LaTeX using (unofficial) the 
 
 Masters' thesis should be written in LaTeX using (unofficial) the University of Michigan [dissertation template](https://github.com/meluso/UMich_Dissertation_Template).
 
+### Diagrams
+
+In most cases use [Mermaid](https://mermaid.js.org/) for generating diagrams such as flowcharts.
+Note [Mermaid diagrams can be directly created in a Quarto document](https://quarto.org/docs/authoring/diagrams.html#mermaid). 
+
+### Image editing
+
+Use [GIMP](https://www.gimp.org) which is a free and open-source image editor.
+
+### Video editing
+
+Use [OpenShot](https://www.openshot.org) which is a free and open-source video editor.
+
+## Group website
+
+The research group website is created with [Quarto website](https://quarto.org/docs/websites/). 
+[GitHub Actions](https://quarto.org/docs/publishing/github-pages.html#github-action) are set up to render and publish the site on [Github Pages](https://quarto.org/docs/publishing/github-pages.html). 
+The source code for the website is at <https://github.com/fenggroup/fenggroup.github.io>
+
+Group members should use the GitHub pull request mechanism to submit changes for review. 
+Fred reviews pull requests and approves/merges the changes.
 
 
+## Training
+
+### LaTeX
+
+- [The Overleaf LaTex Tutorials](https://docs.overleaf.com/getting-started/latex-tutorials)
+
+### Version control
+- [The Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
+- Attending an in-person [University of Michigan Software Carpentry Workshop](https://umcarpentries.org/workshops/)
