@@ -10,7 +10,7 @@ format:
     controls: true
     auto-slide-stoppable: false
     background-transition: slide
-    css: styles.css
+    css: ../assets/stylesheets/carousel-slides.css
 ---
 
 # {background-image="images/lidar-data-900x450.png" background-size="cover"}
@@ -30,8 +30,6 @@ format:
 # {background-image="images/ncs_heatmap_slider.png" background-size="cover"}
 
 # {background-image="images/nds_overtaking.png" background-size="cover"}
-
-# {background-image="images/nds_overtaking_results.png" background-size="cover"}
 
 # {background-image="images/bike-counter.png" background-size="cover"}
 

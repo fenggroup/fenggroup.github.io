@@ -68,7 +68,7 @@ format:
       # https://github.com/quarto-dev/quarto-web/ 
       dark: [cosmo, assets/stylesheets/theme-dark.scss]
       light: [cosmo, assets/stylesheets/theme.scss]
-    css: assets/stylesheets/styles.css
+    css: assets/stylesheets/main.css
     toc: true
     include-after-body:
       - file: assets/scripts/current-year.html
