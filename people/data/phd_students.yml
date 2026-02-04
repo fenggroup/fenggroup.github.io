@@ -1,18 +1,15 @@
 - title: "H. Vasanth Munnamgi"
   image: ../images/people/munnamgi.jpg
-  path: 
   date_joined: 2019-09
-  subtitle: 
+  # path: 
 
 - title: "Gandhimathi (Mathi) Padmanaban"
   image: ../images/people/padmanaban.jpg
-  path: https://mathipadmanaban.github.io
   date_joined: 2021-09
-  subtitle: 
+  path: https://mathipadmanaban.github.io
 
 
 - title: "Rayane Moustafa"
   image: ../images/people/moustafa.jpg
-  # path:
   date_joined: 2023-09
-  subtitle:
+  # path: 

@@ -15,4 +15,3 @@ Contact Fred Feng at <fredfeng@umich.edu> to get in touch with our research grou
 The Feng group is located in the HPEC building (Heinz Prechter Engineering Complex) Room 2200 at the University of Michigan-Dearborn.
 
 <iframe height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-83.23534816503526%2C42.32004367925249%2C-83.23286712169647%2C42.3213863005172&amp;layer=mapnik&amp;marker=42.32071598506215%2C-83.23410898447037" style="width: 100%;"></iframe><small><a href="https://www.openstreetmap.org/?mlat=42.320716&amp;mlon=-83.234109#map=19/42.320715/-83.234108">View Larger Map</a></small>
-

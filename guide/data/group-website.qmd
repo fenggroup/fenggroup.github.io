@@ -1,0 +1,6 @@
+The research group website is created with [Quarto website](https://quarto.org/docs/websites/). 
+[GitHub Actions](https://quarto.org/docs/publishing/github-pages.html#github-action) are set up to render and publish the site on [Github Pages](https://quarto.org/docs/publishing/github-pages.html). 
+The source code for the website is at <https://github.com/fenggroup/fenggroup.github.io>
+
+Group members should use the GitHub pull request mechanism to submit changes for review. 
+Fred reviews pull requests and approves/merges the changes.

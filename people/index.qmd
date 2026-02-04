@@ -4,9 +4,9 @@ date-format: "YYYY-MM"
 listing:
 - id: pi
   type: grid
-  fields: [image, title, subtitle]
+  fields: [image, title]
   grid-item-align: center
-  grid-columns: 4
+  grid-columns: 3
   image-height: 100%
   grid-item-border: false
   contents: data/pi.yml
@@ -14,9 +14,9 @@ listing:
 - id: phd-students
   sort: "date_joined asc"
   type: grid
-  fields: [image, title, subtitle]
+  fields: [image, title]
   grid-item-align: center
-  grid-columns: 4
+  grid-columns: 3
   image-height: 100%
   grid-item-border: false
   contents: data/phd_students.yml
@@ -26,7 +26,7 @@ listing:
   type: grid
   fields: [image, title]
   grid-item-align: center
-  grid-columns: 4
+  grid-columns: 3
   image-height: 100%
   image-placeholder: assets/images/profile-image-placeholder.png
   grid-item-border: false
@@ -46,21 +46,17 @@ listing:
 ---
 
 ## Principal Investigator
-
 :::{#pi}
 :::
 
 ## PhD Students
-
 :::{#phd-students}
 :::
 
 ## Master's Students
-
 :::{#masters-students}
 :::
 
 <!-- ## Undergraduate Students
-
 :::{#undergrad-students}
 ::: -->

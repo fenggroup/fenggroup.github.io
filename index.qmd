@@ -7,8 +7,7 @@ listing:
   type: table
   sort: "date desc"
   max-items: 5
-  date-format: long
-  fields: [date, title, author, reading-time]
+  fields: [date, title, author]
   sort-ui: false
   filter-ui: false
 ---
@@ -16,7 +15,7 @@ listing:
 ::: {#homepage-container}
 
 ::: {#fenggroup-logo}
-FENG GROUP
+Feng Group
 :::
 
 ::: {#homepage-tagline}
@@ -24,13 +23,12 @@ Advancing safe, sustainable, and just systems for cities and communities through
 :::
 
 ::: {#carousel-slides}
-<iframe id="carousel-slides-iframe" src="/carousel-slide/" frameborder="0"></iframe>
+<iframe id="carousel-slides-iframe" src="/carousel-slide/"></iframe>
 :::
-
 
 ::: {#homepage-long-description}
 We are a research group at the [University of Michigan-Dearborn](https://umdearborn.edu) led by Dr. Fred Feng.
-To learn more about our research check the [research](/research/) and other pages linked on the navigation bar near the top. 
+To learn more about our work check the pages linked on the navigation bar near the top. 
 :::
 
 ### Updates

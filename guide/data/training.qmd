@@ -1,0 +1,6 @@
+### LaTeX
+- [The Overleaf LaTex Tutorials](https://docs.overleaf.com/getting-started/latex-tutorials)
+
+### Version control
+- [The Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
+- Attending an in-person [University of Michigan Software Carpentry Workshop](https://umcarpentries.org/workshops/)
