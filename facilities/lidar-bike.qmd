@@ -1,5 +1,6 @@
 ---
 title: "Research bicycle with lidar"
+back-to-top-navigation: false
 ---
 
 We have developed a research bicycle outfitted with a [lidar](https://en.wikipedia.org/wiki/Lidar) (Ouster OS1-128). 

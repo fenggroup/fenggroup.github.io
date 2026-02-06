@@ -5,10 +5,10 @@ title: Guide
 This page includes documentations that serve as a reference for current group members as well as for on-boarding new members. 
 
 ## Software tools
-{{< include data/software-tools.qmd >}}
+{{< include sections/_software-tools.qmd >}}
 
 ## Group website
-{{< include data/group-website.qmd >}}
+{{< include sections/_group-website.qmd >}}
 
 ## Training
-{{< include data/training.qmd >}}
+{{< include sections/_training.qmd >}}

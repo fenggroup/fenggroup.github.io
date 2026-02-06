@@ -1,5 +1,6 @@
 ---
 title: "Virtual reality (VR) cycling simulator"
+back-to-top-navigation: false
 ---
 
 We have developed a high-fidelity VR cycling simulator that could simulate cycling in an immersive virtual environment.

@@ -1,5 +1,6 @@
 ---
 title: "Bike counter"
+back-to-top-navigation: false
 ---
 
 We use bike counters ([Eco-Counter pneumatic tube counter](https://www.eco-counter.com/solutions/counting-solutions/tubes)) that automatically records bicycle traffic data at a location.

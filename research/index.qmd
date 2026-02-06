@@ -1,5 +1,6 @@
 ---
 title: Research
+back-to-top-navigation: false
 ---
 
 The overarching goal of our research is to advance safe, sustainable, and just systems for cities and communities through data-driven insights.

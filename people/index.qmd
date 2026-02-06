@@ -1,6 +1,7 @@
 ---
 title: People
 date-format: "YYYY-MM"
+back-to-top-navigation: false
 listing:
 - id: pi
   type: grid

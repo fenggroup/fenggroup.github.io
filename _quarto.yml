@@ -6,6 +6,8 @@ website:
   description: "The research website for the Feng Group"
   favicon: assets/images/favicon.ico
   site-url: https://fenggroup.org
+  back-to-top-navigation: true
+  reader-mode: true
   navbar:
     left:
       - text: Home

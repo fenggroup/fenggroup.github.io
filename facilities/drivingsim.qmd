@@ -1,5 +1,6 @@
 ---
 title: "Virtual reality (VR) driving simulator"
+back-to-top-navigation: false
 ---
 
 We have developed a high-fidelity VR driving simulator that could simulate driving in an immersive virtual environment.
