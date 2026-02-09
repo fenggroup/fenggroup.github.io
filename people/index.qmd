@@ -3,61 +3,20 @@ title: People
 date-format: "YYYY-MM"
 back-to-top-navigation: false
 listing:
-- id: pi
+- id: current-members
   type: grid
-  fields: [image, title]
+  fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 3
   image-height: 100%
   grid-item-border: false
-  contents: data/pi.yml
-
-- id: phd-students
-  sort: "date_joined asc"
-  type: grid
-  fields: [image, title]
-  grid-item-align: center
-  grid-columns: 3
-  image-height: 100%
-  grid-item-border: false
-  contents: data/phd_students.yml
-
-- id: masters-students
-  sort: "lastname asc"
-  type: grid
-  fields: [image, title]
-  grid-item-align: center
-  grid-columns: 3
-  image-height: 100%
-  image-placeholder: assets/images/profile-image-placeholder.png
-  grid-item-border: false
-  contents: data/masters_students.yml
-
-# - id: undergrad-students
-#   sort: "lastname asc"
-#   type: grid
-#   fields: [image, title]
-#   grid-item-align: center
-#   grid-columns: 4
-#   image-height: 200px
-#   image-placeholder: assets/images/profile-image-placeholder.png
-#   grid-item-border: false
-#   contents: data/undergrad_students.yml
-
+  contents:
+    - "data/pi.yml"
+    - "data/phd.yml"
+    - "data/masters.yml"
+    # - "data/undergrads.yml"
 ---
 
-## Principal Investigator
-:::{#pi}
+## Current members
+:::{#current-members}
 :::
-
-## PhD Students
-:::{#phd-students}
-:::
-
-## Master's Students
-:::{#masters-students}
-:::
-
-<!-- ## Undergraduate Students
-:::{#undergrad-students}
-::: -->

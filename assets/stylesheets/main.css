@@ -73,3 +73,7 @@ img {
     width: 100%;
     height: 100%;
 }
+
+#listing-current-members .no-anchor.card-title.listing-title {
+  font-weight: bold;
+}
