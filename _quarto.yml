@@ -4,11 +4,12 @@ project:
 website:
   title: "Feng Group"
   description: "The Feng Group website"
-  image: assets/images/open-graph-image.png
-  favicon: assets/images/favicon.ico
+  favicon: assets/images/favicon.png
   site-url: https://fenggroup.org
+  open-graph: true
+  image: assets/images/open-graph-image.png
   back-to-top-navigation: true
-  reader-mode: true
+  # reader-mode: true
   navbar:
     left:
       - text: Home
