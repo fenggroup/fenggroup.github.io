@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 page-layout: full
 back-to-top-navigation: false
 listing: 
@@ -11,6 +11,14 @@ listing:
   fields: [date, title, author]
   sort-ui: false
   filter-ui: false
+# inject CSS to hide the title (but reserve it for Open Graph metadata)
+include-in-header:
+  text: |
+    <style>
+      .title {
+        display: none;
+      }
+    </style>
 ---
 
 ::: {#homepage-container}
