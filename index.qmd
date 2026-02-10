@@ -15,7 +15,7 @@ listing:
 include-in-header:
   text: |
     <style>
-      .title {
+      h1.title {
         display: none;
       }
     </style>
