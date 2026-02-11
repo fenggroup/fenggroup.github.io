@@ -7,14 +7,22 @@ back-to-top-navigation: false
 
 Contact Fred Feng at <fredfeng@umich.edu> to get in touch with us.
 
+## Fred's office
+
+HPEC building (Heinz Prechter Engineering Complex) Room 2320
+
+## Group lab space
+
+HPEC building (Heinz Prechter Engineering Complex) Room 2200
+
 ## Shipping Address
 
 4901 Evergreen Rd, Dearborn, MI 48128 USA
 
 ## Getting Here
 
-We are located in the HPEC building (Heinz Prechter Engineering Complex) Room 2200 at the University of Michigan-Dearborn.
-There are bike racks next to the HPEC entrance on the John Montieth Boulevard side, and more bike racks on the west side (Chancellor's Pond side) of the Engineering Lab Building (1-minute walk to HPEC).
+There are two bike racks next to the HPEC entrance on the John Montieth Boulevard side.
+There are more bike racks on the west side (Chancellor's Pond side) of the Engineering Lab Building (less than 1-minute walk to HPEC).
 [Check here](https://umdearborn.edu/about-um-dearborn/visit-campus/parking-and-transportation/visitor-parking) for visitor vehicle parking.
 
 <iframe id="openstreetmap" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-83.23534816503526%2C42.32004367925249%2C-83.23286712169647%2C42.3213863005172&amp;layer=mapnik&amp;marker=42.32071598506215%2C-83.23410898447037" style="width: 500px;"></iframe><small><a href="https://www.openstreetmap.org/?mlat=42.320716&amp;mlon=-83.234109#map=19/42.320715/-83.234108">View Larger Map</a></small>
