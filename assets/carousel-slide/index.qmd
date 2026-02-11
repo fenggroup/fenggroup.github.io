@@ -13,9 +13,9 @@ format:
     css: styles.css
 ---
 
-# {background-image="images/lidar-data-900x450.png" background-size="cover"}
-
 # {background-image="images/lidar-bike-pointcloud.png" background-size="cover"}
+
+# {background-image="images/lidar-data-900x450.png" background-size="cover"}
 
 # {background-image="images/lidar-bike.png" background-size="cover"}
 
