@@ -32,7 +32,7 @@ Advancing safe, sustainable, and just systems for cities and communities through
 :::
 
 ::: {#carousel-slides}
-<iframe id="carousel-slides-iframe" src="/carousel-slide/"></iframe>
+<iframe id="carousel-slides-iframe" src="assets/carousel-slide/"></iframe>
 :::
 
 ::: {#homepage-long-description}

@@ -10,7 +10,7 @@ format:
     controls: true
     auto-slide-stoppable: false
     background-transition: slide
-    css: ../assets/stylesheets/carousel-slides.css
+    css: styles.css
 ---
 
 # {background-image="images/lidar-data-900x450.png" background-size="cover"}
