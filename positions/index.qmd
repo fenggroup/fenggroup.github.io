@@ -1,0 +1,34 @@
+---
+title: Positions
+back-to-top-navigation: false
+---
+
+## Postdoctoral researchers
+
+We typically do not have existing funding to support postdoctoral researchers. 
+If you are interested in joining our group as a postdoctoral researcher, you will most likely need to find self-funding and ask if we can host and work with you. 
+
+## PhD students
+
+If you are interested in joining our group as a PhD student, you should wait for an open position (see below) and apply. 
+Our [Industrial and Systems Engineering PhD program](https://umdearborn.edu/academics/program/industrial-and-systems-engineering-phd) is affiliated with the [Rackham Graduate School](https://rackham.umich.edu/) at the [University of Michigan](https://umich.edu/) and is administered by the [University of Michigan-Dearborn](https://umdearborn.edu/). 
+
+The PhD positions are full time and fully funded.
+Admitted students are guaranteed financial support for up to five years, including tuition, a monthly stipend, and health insurance. 
+The financial support is given in the form of a Graduate Student Research Assistant (GSRA) or a Graduate Student Instructor (GSI).
+Note you are *not* required to have a Master's degree to join our PhD program.
+
+### Current openings
+
+None
+
+## Master's students
+
+If you are currently a Master's student at UM-Dearborn and are thinking about working on a research project in our group for your Master's thesis, please email Fred Feng <fredfeng@umich.edu> explaining your interest and a CV or resume.
+For thesis topic ideas you may want to check the research pages on this website (e.g., research, facilities, products) to see what are possible.
+You can also check [this list](../products/#dissertations-and-theses) on the Master’s theses that was previously done in our group.
+
+## Undergraduate students
+
+If you are currently an undergraduate student at UM-Dearborn and are thinking about getting research experience or working on a senior design project in our group, please email Fred Feng <fredfeng@umich.edu> explaining your interest and your CV or resume. 
+For research or project topic ideas you may want to check the research pages on this website (e.g., research, facilities, products) to see what are possible.
