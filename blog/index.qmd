@@ -7,4 +7,5 @@ listing:
   fields: [date, title, author, categories, reading-time, description, image]
   image-align: left
   categories: true
+  feed: true
 ---

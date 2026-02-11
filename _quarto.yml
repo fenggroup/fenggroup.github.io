@@ -36,6 +36,8 @@ website:
         href: people/index.qmd
       - text: Guide
         href: guide/index.qmd
+      - text: Positions
+        href: positions/index.qmd
       - text: Contact
         href: contact/index.qmd
       - text: Blog
@@ -54,6 +56,11 @@ website:
       - icon: bluesky
         href: https://bsky.app/profile/fenggroup.bsky.social
         text: Bluesky
+        target: _blank
+        rel: noopener noreferrer
+      - icon: rss
+        href: blog/index.xml
+        text: RSS
         target: _blank
         rel: noopener noreferrer
   page-footer:
