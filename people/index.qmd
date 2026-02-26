@@ -7,13 +7,13 @@ listing:
   type: grid
   fields: [image, title, subtitle]
   grid-item-align: center
-  grid-columns: 3
+  grid-columns: 4
   image-height: 100%
   grid-item-border: false
   contents:
     - "data/pi.yml"
     - "data/phd.yml"
-    - "data/masters.yml"
+    # - "data/masters.yml"
     # - "data/undergrads.yml"
 ---
 
