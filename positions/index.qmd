@@ -6,7 +6,7 @@ back-to-top-navigation: false
 ## Postdoctoral researchers
 
 We typically do not have existing funding to support postdoctoral researchers. 
-If you are interested in joining our group as a postdoctoral researcher, you will most likely need to find self-funding and ask if we can host and work with you (please indicate the potential funding sources in the email). 
+If you are interested in joining our group as a postdoctoral researcher, you will most likely need to find self-funding and ask if we can host and work with you. Please indicate the potential funding sources in the email.
 
 ## PhD students
 
@@ -27,6 +27,8 @@ None
 If you are currently a Master's student at UM-Dearborn and are thinking about working on a research project in our group for your Master's thesis, please email Fred Feng <fredfeng@umich.edu> explaining your interest and a CV or resume.
 For thesis topic ideas you may want to check the research pages on this website (e.g., research, facilities, products) to see what are possible.
 You can also check [this list](../products/#dissertations-and-theses) on the Master’s theses that was previously done in our group.
+
+We are not able to host any students who are on F1 Optional Practical Training (OPT). 
 
 ## Undergraduate students
 
