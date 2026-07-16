@@ -10,7 +10,11 @@ date-format: "YYYY-MM"
 {{< include data/_conferences.qmd >}}
 
 ## Dissertations and Theses 
-{{< include data/_dissertations-theses.qmd >}}
+### PhD Dissertations
+{{< include data/_dissertations.qmd >}}
+
+### Master's Theses
+{{< include data/_theses.qmd >}}
 
 ## Presentations
 {{< include data/_presentations.qmd >}}
