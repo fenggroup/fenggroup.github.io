@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,12 +43,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5bc54602ec03183d43567fec4d3f37a9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-89d60951dd777355344bec5dc9c1d391.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-abe76eb97a853e61dc7ce881b9ed1945.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-12efd7e17e870354635c260898a78a72.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -349,7 +352,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link active" data-scroll-target="#journal-articles">Journal Articles</a></li>
   <li><a href="#conference-proceedings-articles" id="toc-conference-proceedings-articles" class="nav-link" data-scroll-target="#conference-proceedings-articles">Conference Proceedings Articles</a></li>
-  <li><a href="#dissertations-and-theses" id="toc-dissertations-and-theses" class="nav-link" data-scroll-target="#dissertations-and-theses">Dissertations and Theses</a></li>
+  <li><a href="#dissertations-and-theses" id="toc-dissertations-and-theses" class="nav-link" data-scroll-target="#dissertations-and-theses">Dissertations and Theses</a>
+  <ul class="collapse">
+  <li><a href="#phd-dissertations" id="toc-phd-dissertations" class="nav-link" data-scroll-target="#phd-dissertations">PhD Dissertations</a></li>
+  <li><a href="#masters-theses" id="toc-masters-theses" class="nav-link" data-scroll-target="#masters-theses">Master’s Theses</a></li>
+  </ul></li>
   <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">Presentations</a></li>
   <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
   <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
@@ -398,9 +405,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="conference-proceedings-articles" class="level2">
 <h2 class="anchored" data-anchor-id="conference-proceedings-articles">Conference Proceedings Articles</h2>
 <ul>
+<li>Fred Feng, “An examination on crash counterparties in bicyclist-involved fatal crashes”, <em>International Cycling Safety Conference</em>, 2026, Knoxville, Tennessee, USA (<em>accepted</em>)</li>
+<li>Gandhimathi Padmanaban and Fred Feng, “Vision-based lateral passing distance estimation from bicycle-mounted cameras: a projective geometry approach”, <em>International Cycling Safety Conference</em>, 2026, Knoxville, Tennessee, USA (<em>accepted</em>)</li>
 <li>Gandhimathi Padmanaban, Fred Feng, Edward Dai, Ankit Saini, Guopeng Hu, and Yanan Zhao, “A comparative analysis of acceleration and deceleration profiles for aggressive driving styles and fuel economy test cycles”, <em>SAE Technical Paper</em>, 2025, <a href="https://doi.org/10.4271/2025-01-8605">10.4271/2025-01-8605</a></li>
 <li>Aditya Deshmukh, Zifei Wang, Huizhong Guo, Dania Ammar, Rini Sherony, Fred Feng, Brian Lin, Shan Bao, and Feng Zhou, “A systematic review of challenging scenarios involving automated vehicles and vulnerable road users”, <em>Human Factors and Ergonomics Society Annual Meeting</em>, 2023, <a href="https://doi.org/10.1177/21695067231192300">10.1177/21695067231192300</a></li>
-<li>H. Vasanth Munnamgi and Fred Feng, “An automatic method to extract events of drivers overtaking cyclists from trajectory data captured by drones, <em>International Cycling Safety Conference</em>, 2022, <a href="https://doi.org/10.25368/2022.503">10.25368/2022.503</a></li>
+<li>H. Vasanth Munnamgi and Fred Feng, “An automatic method to extract events of drivers overtaking cyclists from trajectory data captured by drones”, <em>International Cycling Safety Conference</em>, 2022, <a href="https://doi.org/10.25368/2022.503">10.25368/2022.503</a></li>
 <li>Heejin Jeong, Fred Feng, and Yili Liu, “Computational modeling of driver lateral control on curved roads with integration of vehicle dynamics and reference trajectory tracking”, <em>9th International Driving Symposium on Human Factors in Driver Assessment, Training and Vehicle Design</em>, 2017, <a href="https://doi.org/10.17077/drivingassessment.1635">10.17077/drivingassessment.1635</a></li>
 <li>Fred Feng, Shan Bao, James Sayer, and David LeBlanc. “Spectral power analysis of drivers’ gas pedal control during steady-state car-following on freeways”, <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>, 2016, <a href="https://doi.org/10.1177/1541931213601167">10.1177/1541931213601167</a></li>
 <li>Yifan Chen, Basavaraj Tonshal, James Rankin, and Fred Feng, “Development of an integrated simulation system for design of speech-centric multimodal human-machine interfaces in an automotive cockpit environment”, <em>ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</em>, 2016, <a href="https://doi.org/10.1115/DETC2016-59309">10.1115/DETC2016-59309</a></li>
@@ -409,11 +418,20 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="dissertations-and-theses" class="level2">
 <h2 class="anchored" data-anchor-id="dissertations-and-theses">Dissertations and Theses</h2>
+<section id="phd-dissertations" class="level3">
+<h3 class="anchored" data-anchor-id="phd-dissertations">PhD Dissertations</h3>
 <ul>
-<li>Rayane Moustafa, “Using Digital Lidar to Study Cycling Safety and Distance Estimation of Passing Vehicles”, [Master’s theses], 2023-08-22, <a href="https://dx.doi.org/10.7302/8118">10.7302/8118</a></li>
-<li>Gandhimathi Padmanaban, “Computational Human Performance Modeling using Queuing Network in an Open-Source Platform”, [Master’s theses], 2021-08-25, <a href="https://dx.doi.org/10.7302/2328">10.7302/2328</a></li>
-<li>Ayah Hamad, “Two Wheelistic: Development of a High-Fidelity Virtual Reality Cycling Simulator for Transportation Safety Research”, [Master’s theses], 2021-05-01, <a href="https://dx.doi.org/10.7302/1035">10.7302/1035</a></li>
+<li>Gandhimathi Padmanaban, “Adaptable Machine Learning and Computer Vision Frameworks for Road Safety: Applications to Driver Behavior and Driver-Bicyclist Interaction Research”, 2026</li>
 </ul>
+</section>
+<section id="masters-theses" class="level3">
+<h3 class="anchored" data-anchor-id="masters-theses">Master’s Theses</h3>
+<ul>
+<li>Rayane Moustafa, “Using Digital Lidar to Study Cycling Safety and Distance Estimation of Passing Vehicles”, 2023-08-22, <a href="https://dx.doi.org/10.7302/8118">10.7302/8118</a></li>
+<li>Gandhimathi Padmanaban, “Computational Human Performance Modeling using Queuing Network in an Open-Source Platform”, 2021-08-25, <a href="https://dx.doi.org/10.7302/2328">10.7302/2328</a></li>
+<li>Ayah Hamad, “Two Wheelistic: Development of a High-Fidelity Virtual Reality Cycling Simulator for Transportation Safety Research”, 2021-05-01, <a href="https://dx.doi.org/10.7302/1035">10.7302/1035</a></li>
+</ul>
+</section>
 </section>
 <section id="presentations" class="level2">
 <h2 class="anchored" data-anchor-id="presentations">Presentations</h2>

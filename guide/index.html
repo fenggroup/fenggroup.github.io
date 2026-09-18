@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,12 +43,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5bc54602ec03183d43567fec4d3f37a9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-89d60951dd777355344bec5dc9c1d391.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-abe76eb97a853e61dc7ce881b9ed1945.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-12efd7e17e870354635c260898a78a72.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -348,9 +351,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#software-tools" id="toc-software-tools" class="nav-link active" data-scroll-target="#software-tools">Software tools</a>
+  <li><a href="#ai-use-policies" id="toc-ai-use-policies" class="nav-link active" data-scroll-target="#ai-use-policies">AI use policies</a>
+  <ul class="collapse">
+  <li><a href="#critical-thinking" id="toc-critical-thinking" class="nav-link" data-scroll-target="#critical-thinking">Critical thinking</a></li>
+  <li><a href="#statement-on-ai-use" id="toc-statement-on-ai-use" class="nav-link" data-scroll-target="#statement-on-ai-use">Statement On AI Use</a></li>
+  </ul></li>
+  <li><a href="#software-tools" id="toc-software-tools" class="nav-link" data-scroll-target="#software-tools">Software tools</a>
   <ul class="collapse">
   <li><a href="#programming-language" id="toc-programming-language" class="nav-link" data-scroll-target="#programming-language">Programming language</a></li>
+  <li><a href="#data-cleaningmanipulationanalysis" id="toc-data-cleaningmanipulationanalysis" class="nav-link" data-scroll-target="#data-cleaningmanipulationanalysis">Data cleaning/manipulation/analysis</a></li>
   <li><a href="#data-visualization" id="toc-data-visualization" class="nav-link" data-scroll-target="#data-visualization">Data visualization</a></li>
   <li><a href="#scientific-writing" id="toc-scientific-writing" class="nav-link" data-scroll-target="#scientific-writing">Scientific writing</a></li>
   <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control">Version control</a></li>
@@ -395,18 +404,66 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>This page includes documentations that serve as a reference for current group members as well as for on-boarding new members.</p>
+<section id="ai-use-policies" class="level2">
+<h2 class="anchored" data-anchor-id="ai-use-policies">AI use policies</h2>
+<p>The materials in this section were largely adopted from <a href="https://mechmotum.github.io/guide-writing.html#toc-entry-5">Dr.&nbsp;Jason Moore’s research group</a>.</p>
+<section id="critical-thinking" class="level3">
+<h3 class="anchored" data-anchor-id="critical-thinking">Critical thinking</h3>
+<p>We ask you to write reports/papers/thesis/dissertations in school so that you learn how to write. You may not see it yet, but writing is also a key to improving your critical thinking. The act of communicating each and every sentence, helps you think out the complexity of the work you are doing. If you let AI write for you, you remove a large amount of the thinking you need to be doing to become a researcher or engineer.</p>
+<p>AI is a tool that you can use to help you in your work. But it should not be used to directly produce any content that we use and publish.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Permitted</th>
+<th>Non Permitted</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Write a paragraph by yourself.</td>
+<td>Prompt AI to generate a paragraph and paste it into your writing.</td>
+</tr>
+<tr class="even">
+<td>Write a paragraph, provide it to AI and ask for adjustments and feedback, manually rewrite the paragraph based on the AI’s feedback.</td>
+<td>Write a paragraph, provide it to AI and ask it to improve the paragraph, paste the paragraph from AI into your writing.</td>
+</tr>
+<tr class="odd">
+<td>Prompt AI to check the grammar in your writing, manually fix grammar that is suggested by AI.</td>
+<td>Pass your writing to AI and prompt it to fix the grammar and spelling, paste the result into your writing.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="statement-on-ai-use" class="level3">
+<h3 class="anchored" data-anchor-id="statement-on-ai-use">Statement On AI Use</h3>
+<p>If you make use of AI tools that can essentially generate texts, images, or code for you, you must make a statement in your document explaining how you used such tools. You should also be cautious when using such AI tools because the copyright of the AI content is ambiguous. The AI content is a derivative of other people’s (possibly copyrighted) work, and you do not want to laden your writing with possible copyright infringements. You are required to make a statement on AI use, for example:</p>
+<blockquote class="blockquote">
+<p>During the preparation of this work the author(s) used Grammarly to improve the grammar in the writing. After using this tool/service, the author(s) manually reviewed and edited the content as needed. No contents, including texts, images, and source code, were directly generated by AI.</p>
+</blockquote>
+</section>
+</section>
 <section id="software-tools" class="level2">
 <h2 class="anchored" data-anchor-id="software-tools">Software tools</h2>
-<p>Members of the group are expected to use the software tools listed below to generate research products.</p>
+<p>To support efficient group collaboration, group members are expected to use the software tools listed below to generate research products. Check with Fred beforehand if you are considering using something else.</p>
 <section id="programming-language" class="level3">
 <h3 class="anchored" data-anchor-id="programming-language">Programming language</h3>
 <p>The group primarily use Python for day-to-day work such as scientific computing, data manipulation, analysis, and visualization, and developing computational models.</p>
+</section>
+<section id="data-cleaningmanipulationanalysis" class="level3">
+<h3 class="anchored" data-anchor-id="data-cleaningmanipulationanalysis">Data cleaning/manipulation/analysis</h3>
+<ul>
+<li>The group primarily uses <a href="https://pola.rs">Polars</a> for data cleaning, manipulation, and analysis.</li>
+</ul>
 </section>
 <section id="data-visualization" class="level3">
 <h3 class="anchored" data-anchor-id="data-visualization">Data visualization</h3>
 <ul>
 <li>The group primarily uses the Python library <a href="https://altair-viz.github.io">Vega-Altair</a> for data visualization.</li>
-<li>In rare cases in which Altair does not serve our needs, we use <a href="https://d3js.org">D3.js</a> for bespoke data visualization.</li>
+<li>In rare cases in which Altair does not serve the needs, use <a href="https://d3js.org">D3.js</a> for bespoke data visualization.</li>
 </ul>
 </section>
 <section id="scientific-writing" class="level3">
