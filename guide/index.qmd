@@ -4,6 +4,9 @@ title: Guide
 
 This page includes documentations that serve as a reference for current group members as well as for on-boarding new members. 
 
+## AI use policies
+{{< include sections/_ai_policies.qmd >}}
+
 ## Software tools
 {{< include sections/_software-tools.qmd >}}
 
